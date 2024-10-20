@@ -3,8 +3,8 @@
 \[[返回主页](../../README.md#2023)\]
 
 ## 作者信息
-*Zichuan Xu, Yuexin Fu, Qiufen Xia (Dalian University of Technology), Hao Li (China Coal Research Institute)
-*
+*Zichuan Xu, Yuexin Fu, Qiufen Xia (Dalian University of Technology), Hao Li (China Coal Research Institute)*
+
 ## 研究背景
 为了实现在网络边缘进行大数据的实时分析，揭示有价值的信息。大数据分析开发人员通常面临管理底层云资源的负担，这极大地拖慢了分析开发的速度。目前，服务器无感知计算作为一种新的服务范式，能够释放开发人员管理负担，并实现边缘侧敏捷大数据分析。然而，数据的时效性往往取决于延迟表现，包括等待调度、传输延迟、处理延迟等，如何权衡不同性能指标以实现灵活高效大数据分析是具有挑战性的。
 
