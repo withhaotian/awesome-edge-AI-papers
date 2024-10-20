@@ -1,6 +1,6 @@
 # [Two-level Graph Caching for Expediting Distributed GNN Training](https://doi.org/10.1109/INFOCOM53939.2023.10228911)
 
-\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
+\[[返回主页](../../README.md#2023)\]
 
 ## 作者信息
 *Zhe Zhang, Ziyue Luo, Chuan Wu (Department of Computer Science, The University of Hong Kong)*

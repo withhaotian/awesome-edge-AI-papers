@@ -1,6 +1,6 @@
 # [faasHouse: Sustainable Serverless Edge Computing through Energy-aware Resource Scheduling](https://doi.org/10.1109/TSC.2024.3354296)
 
-\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
+\[[返回主页](../../README.md#2024)\]
 
 ## 作者信息
 *Mohammad Sadegh Aslanpour, Adel N. Toosi, Muhammad Aamir Cheema (Monash University), Mohan Baruwal Chhetri (CSIRO’s DATA61)*

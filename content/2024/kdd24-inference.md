@@ -1,6 +1,6 @@
 # [Inference Optimization of Foundation Models on AI Accelerators](https://doi.org/10.1145/3637528.3671465)
 
-\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
+\[[返回主页](../../README.md#2024)\]
 
 ## 作者信息
 *Youngsuk Park, Kailash Budhathoki, Liangfu Chen, Jonas Kübler, Jiaji Huang, Matthäus Kleindessner, Jun Huan, Volkan Cevher, Yida Wang, George Karypis (AWS AI)*

@@ -1,6 +1,6 @@
 # [Incentive Mechanisms for Online Task Offloading With Privacy-Preserving in UAV-Assisted Mobile Edge Computing](https://doi.org/10.1109/TNET.2024.3364141)
 
-\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
+\[[返回主页](../../README.md#2024)\]
 
 ## 作者信息
 *Renli Zhang, Ruiting Zhou, Yufeng Wang (Wuhan University), Haisheng Tan (University of Science and Technology of China), Kun He (Wuhan University)*

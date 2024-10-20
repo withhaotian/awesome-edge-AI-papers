@@ -1,6 +1,6 @@
 # [Poisoning Attack on Federated Knowledge Graph Embedding](https://doi.org/10.1145/3589334.3645422)
 
-\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
+\[[返回主页](../../README.md#2024)\]
 
 ## 作者信息
 *Enyuan Zhou, Song Guo (Hong Kong Polytechnic University), Zhixiu Ma (Xidian University), Zicong Hong, Tao Guo, Peiran Dong (Hong Kong Polytechnic University)*

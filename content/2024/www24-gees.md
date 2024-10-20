@@ -1,6 +1,6 @@
 # [GEES: Enabling Location Privacy-Preserving Energy Saving in Multi-Access Edge Computing](https://doi.org/10.1145/3589334.3645329)
 
-\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
+\[[返回主页](../../README.md#2024)\]
 
 ## 作者信息
 *Ziqi Wang, Xiaoyu Xia (RMIT University), Minhui Xue (CSIRO’s Data61), Ibrahim Khalil (RMIT University), Minghui Liwang (Tongji University), Xun Yi (RMIT University)*

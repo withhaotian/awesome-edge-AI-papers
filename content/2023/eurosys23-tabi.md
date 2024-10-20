@@ -1,6 +1,6 @@
 # [Tabi: An Efficient Multi-Level Inference System for Large Language Models](https://doi.org/10.1145/3552326.3587438)
 
-\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
+\[[返回主页](../../README.md#2023)\]
 
 ## 作者信息
 *Yiding Wang, Kai Chen (iSING Lab, Hong Kong University of Science and Technology), Haisheng Tan (University of Science and Technology of China), Kun Guo (Fuzhou University)*

@@ -1,6 +1,6 @@
 # [PASS: Predictive Auto-Scaling System for Large-scale Enterprise Web Applications](https://doi.org/10.1145/3589334.3645330)
 
-\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
+\[[返回主页](../../README.md#2024)\]
 
 ## 作者信息
 *Yunda Guo, Jiake Ge, Panfeng Guo, Yunpeng Chai (Renmin University of China), Tao Li, Mengnan Shi, Yang Tu, Jian Ouyang (Meituan)*

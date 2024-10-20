@@ -1,6 +1,6 @@
 # [Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models](https://arxiv.org/pdf/2404.06448)
 
-\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
+\[[返回主页](../../README.md#2024)\]
 
 ## 作者信息
 *Zihan Fang, Zheng Lin, Zhe Chen (Fudan University), Xianhao Chen (University of Hong Kong), Yue Gao (Fudan University), Yuguang Fang (City University of Hong Kong)*
