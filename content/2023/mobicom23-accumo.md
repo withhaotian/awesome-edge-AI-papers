@@ -1,5 +1,7 @@
 # [AccuMO: Accuracy-centric multitask offloading in edge-assisted mobile augmented reality](https://doi.org/10.1145/3570361.3592531)
 
+\[[返回主页](../../README.md)\]
+
 ## 作者信息
 *Z. Jonny Kong, Qiang Xu, Jiayi Meng, Y. Charlie Hu (Purdue University)*
 

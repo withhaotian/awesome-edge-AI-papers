@@ -1,5 +1,7 @@
 # [λGrapher: A Resource-Efficient Serverless System for GNN Serving through Graph Sharing](https://doi.org/10.1145/3589334.3645383)
 
+\[[返回主页](../../README.md)\]
+
 ## 作者信息
 *Haichuan Hu, Fangming Liu, Qiangyu Pei, Yongjie Yuan (Huazhong University of Science and Technology), Zichen Xu (Nanchang University), Lin Wang (Paderborn University)*
 

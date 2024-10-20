@@ -1,5 +1,7 @@
 # [The evolution of distributed systems for graph neural networks and their origin in graph processing and deep learning: A survey](https://doi.org/10.1145/3597428)
 
+\[[返回主页](../../README.md)\]
+
 ## 作者信息
 *Jana Vatter (Technical University of Munich), Ruben Mayer (University of Bayreuth), Hans-Arno Jacobsen (University of Toronto)*
 

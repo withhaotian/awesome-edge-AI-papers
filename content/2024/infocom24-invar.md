@@ -1,5 +1,7 @@
 # [INVAR: Inversion Aware Resource Provisioning and Workload Scheduling for Edge Computing](https://doi.org/10.1109/INFOCOM52122.2024.10621417)
 
+\[[返回主页](../../README.md)\]
+
 ## 作者信息
 *Bin Wang, David Irwin, Prashant Shenoy, Don Towsley (University of Massachusetts Amherst)*
 

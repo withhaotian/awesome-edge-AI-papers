@@ -1,5 +1,7 @@
 # [Parallel and distributed graph neural networks: An in-depth concurrency analysis](https://doi.org/10.1109/TPAMI.2023.3303431)
 
+\[[返回主页](../../README.md)\]
+
 ## 作者信息
 *Maciej Besta, Torsten Hoefler (ETH Zurich)*
 

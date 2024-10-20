@@ -1,5 +1,7 @@
 # [CompCube: A Space-Time-Request Resource Trading Framework for Edge-Cloud Service Market](https://doi.org/10.1109/TSC.2023.3261553)
 
+\[[返回主页](../../README.md)\]
+
 ## 作者信息
 *Xiaoxu Ren, Chao Qiu, Zheyuan Chen, Xiaofei Wang (Tianjin University), Dusit Niyato (Nanyang Technological University), Wenyu Wang (Shanghai Zhuichu Networking Tecnologies Company, Ltd.,)*
 

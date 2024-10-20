@@ -52,237 +52,234 @@ A curated list of Edge AI papers. If you find some interesting work/projects, pl
 
 ## By Topics (2022.01 - 2023.09)
 ### Edge Training
-- \[WWW'23\] PipeEdge: A Trusted Pipelining Collaborative Edge Training based on Blockchain
-- \[WWW'23\] FlexiFed: Personalized Federated Learning for Edge Clients with Heterogeneous Model Architectures
-- \[WWW'23\] FedEdge: Accelerating Edge-Assisted Federated Learning
-- \[WWW'23\] EdgeMove: Pipelining Device-Edge Model Training for Mobile Intelligence
-- \[WWW'23\] pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning
-- \[TWC'23\] Ensemble Distillation Based Adaptive Quantization for Supporting Federated Learning in Wireless Networks
-- \[TWC'23\] Hierarchical Federated Learning With Quantization: Convergence Analysis and System Design
-- \[TWC'23\] Knowledge-Guided Learning for Transceiver Design in Over-the-Air Federated Learning
-- \[TWC'23\] Online Client Selection for Asynchronous Federated Learning With Fairness Consideration
-- \[TWC'23\] Olive Branch Learning: A Topology-Aware Federated Learning Framework for Space-Air-Ground Integrated Network
-- \[TPDS'23\] From Deterioration to Acceleration: A Calibration Approach to Rehabilitating Step Asynchronism in Federated Optimization
-- \[TPDS'23\] Energy-Aware, Device-to-Device Assisted Federated Learning in Edge Computing
-- \[TPDS'23\] HiFlash: Communication-Efficient Hierarchical Federated Learning With Adaptive Staleness Control and Heterogeneity-Aware Client-Edge Association
-- \[TPDS'23\] HierFedML: Aggregator Placement and UE Assignment for Hierarchical Federated Learning in Mobile Edge Computing
-- \[ToN'23\] Scheduling In-Band Network Telemetry With Convergence-Preserving Federated Learning
-- \[ToN'23\] Optimizing Parameter Mixing Under Constrained Communications in Parallel Federated Learning
-- \[TMC'23\] Distributed Traffic Synthesis and Classification in Edge Networks: A Federated Self-supervised Learning Approach
-- \[TMC'23\] A Personalized Privacy Preserving Mechanism for Crowdsourced Federated Learning
-- \[TMC'23\] Mobile Collaborative Learning over Opportunistic Internet of Vehicles
-- \[TMC'23\] Tree Learning: Towards Promoting Coordination in Scalable Multi-Client Training Acceleration
-- \[TMC'23\] PromptFL: Let Federated Participants Cooperatively Learn Prompts Instead of Models - Federated Learning in Age of Foundation Model
-- \[TMC'23\] Enabling Long-Term Cooperation in Cross-Silo Federated Learning: A Repeated Game Perspective
-- \[TMC'23\] Energy or Accuracy? Near-Optimal User Selection and Aggregator Placement for Federated Learning in MEC
-- \[TKDE'23\] Adaptive Clustering based Personalized Federated Learning Framework for Next POI Recommendation with Location Noise
-- \[TGCN'23\] Exploiting UAV for Air–Ground Integrated Federated Learning: A Joint UAV Location and Resource Optimization Approach
-- \[TC'23\] Towards Data-Independent Knowledge Transfer in Model-Heterogeneous Federated Learning
-- \[JSTSP'23\] Knowledge Selection and Local Updating Optimization for Federated Knowledge Distillation With Heterogeneous Models
-- \[JSAC'23\] nFEDge: A Blockchain-Based Incentive Mechanism in Hierarchical Federated Learning for End-Edge-Cloud Communications
-- \[IOTJ'23\] Multicore Federated Learning for Mobile-Edge Computing Platforms
-- \[INFOCOM'23\] Privacy as a Resource in Differentially Private Federated Learning
-- \[INFOCOM'23\] Federated Learning at the Edge: An Interplay of Mini-batch Size and Aggregation Frequency
-- \[ICC'23\] Decentralized Federated Learning With Asynchronous Parameter Sharing
-- \[ICASSP'23\] Semi-Federated Learning for Edge Intelligence with Imperfect SIC
-- \[arXiv'23\] FedFA: Federated Learning with Feature Anchors to Align Features and Classifiers for Heterogeneous Data
-- \[arXiv'23\] Understanding Model Averaging in Federated Learning on Heterogeneous Data
-- \[arXiv'23\] MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates
-- \[arXiv'23\] Channel and Gradient-Importance Aware Device Scheduling for Over-the-Air Federated Learning
-- \[arXiv'23\] Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher
-- \[arXiv'23\] Binary Federated Learning with Client-Level Differential Privacy
-- \[arXiv'23\] Feature Matching Data Synthesis for Non-IID Federated Learning
-- \[arXiv'23\] FedCiR: Client-Invariant Representation Learning for Federated Non-IID Features
-- \[arXiv'23\] Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices
-- \[arXiv'23\] FedAdapter: Efficient Federated Learning for Modern NLP
-- \[arXiv'23\] Device-centric Federated Analytics At Ease
-- \[arXiv'23\] Efficient Federated Learning with Enhanced Privacy via Lottery Ticket Pruning in Edge Computing
-- \[arXiv'23\] When Computing Power Network Meets Distributed Machine Learning: An Efficient Federated Split Learning Framework
-- \[WCNC'22\] Semi-Decentralized Federated Edge Learning for Fast Convergence on Non-IID Data
-- \[TPDS'22\] Reputation-Aware Hedonic Coalition Formation for Efficient Serverless Hierarchical Federated Learning
-- \[TPDS'22\] PS+: A Simple yet Effective Framework for Fast Training on Parameter Server
-- \[TPDS'22\] Incentive-Aware Autonomous Client Participation in Federated Learning
-- \[TON'22\] Accelerating Federated Learning via Parallel Servers: A Theoretically Guaranteed Approach
-- \[TMC'22\] FLASH: Heterogeneity-Aware Federated Learning at Scale
-- \[TMC'22\] Collaboration in Participant-Centric Federated Learning: A Game-Theoretical Perspective
-- \[TITS'22\] Federated Learning Enabled Credit Priority Task Processing for Transportation Big Data
-- \[TBD'22\] Resource-Aware Federated Neural Architecture Search over Heterogeneous Mobile Devices
-- \[SenSys'22\] TailorFL: Dual-Personalized Federated Learning under System and Data Heterogeneity
-- \[SECON'22\] Energy-efficient Federated Learning via Stabilization-aware On-device Update Scaling
-- \[MobiSys'22\] Melon: breaking the memory wall for resource-efficient on-device machine learning
-- \[MobiSys'22\] FedBalancer: data and pace control for efficient federated learning on heterogeneous clients
-- \[INFOCOM'22\] A Profit-Maximizing Model Marketplace with Differentially Private Federated Learning
-- \[arXiv'22\] Exploiting Personalized Invariance for Better Out-of-distribution Generalization in Federated Learning
-- \[arXiv'22\] FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers
+- \[WWW'23\] PipeEdge: A Trusted Pipelining Collaborative Edge Training based on Blockchain - \[[PDF](https://doi.org/10.1145/3543507.3583413)\]
+- \[WWW'23\] FlexiFed: Personalized Federated Learning for Edge Clients with Heterogeneous Model Architectures - \[[PDF](https://doi.org/10.1145/3543507.3583347)\]
+- \[WWW'23\] FedEdge: Accelerating Edge-Assisted Federated Learning - \[[PDF](https://doi.org/10.1145/3543507.3583264)\]
+- \[WWW'23\] EdgeMove: Pipelining Device-Edge Model Training for Mobile Intelligence - \[[PDF](https://dl.acm.org/doi/10.1145/3543507.3583540)\]
+- \[WWW'23\] pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning - \[[PDF](https://dl.acm.org/doi/10.1145/3543507.3583518)\]
+- \[TWC'23\] Ensemble Distillation Based Adaptive Quantization for Supporting Federated Learning in Wireless Networks - \[[PDF](https://doi.org/10.1109/TWC.2022.3222717)\]
+- \[TWC'23\] Hierarchical Federated Learning With Quantization: Convergence Analysis and System Design - \[[PDF](https://doi.org/10.1109/TWC.2022.3190512)\]
+- \[TWC'23\] Knowledge-Guided Learning for Transceiver Design in Over-the-Air Federated Learning - \[[PDF](https://doi.org/10.1109/TWC.2022.3192550)\]
+- \[TWC'23\] Online Client Selection for Asynchronous Federated Learning With Fairness Consideration - \[[PDF](https://doi.org/10.1109/TWC.2022.3211998)\]
+- \[TWC'23\] Olive Branch Learning: A Topology-Aware Federated Learning Framework for Space-Air-Ground Integrated Network - \[[PDF](https://doi.org/10.1109/TWC.2022.3226867)\]
+- \[TPDS'23\] From Deterioration to Acceleration: A Calibration Approach to Rehabilitating Step Asynchronism in Federated Optimization - \[[PDF](https://doi.org/10.1109/TPDS.2023.3250513)\]
+- \[TPDS'23\] Energy-Aware, Device-to-Device Assisted Federated Learning in Edge Computing - \[[PDF](https://doi.org/10.1109/TPDS.2023.3277423)\]
+- \[TPDS'23\] HiFlash: Communication-Efficient Hierarchical Federated Learning With Adaptive Staleness Control and Heterogeneity-Aware Client-Edge Association - \[[PDF](https://doi.org/10.1109/TPDS.2023.3238049)\]
+- \[TPDS'23\] HierFedML: Aggregator Placement and UE Assignment for Hierarchical Federated Learning in Mobile Edge Computing - \[[PDF](https://doi.org/10.1109/TPDS.2022.3218807)\]
+- \[ToN'23\] Scheduling In-Band Network Telemetry With Convergence-Preserving Federated Learning - \[[PDF](https://doi.org/10.1109/TNET.2023.3253302)\]
+- \[ToN'23\] Optimizing Parameter Mixing Under Constrained Communications in Parallel Federated Learning - \[[PDF](https://doi.org/10.1109/TNET.2023.3257236)\]
+- \[TMC'23\] Distributed Traffic Synthesis and Classification in Edge Networks: A Federated Self-supervised Learning Approach - \[[PDF](https://doi.org/10.1109/TMC.2023.3240821)\]
+- \[TMC'23\] A Personalized Privacy Preserving Mechanism for Crowdsourced Federated Learning - \[[PDF](https://doi.org/10.1109/TMC.2023.3237636)\]
+- \[TMC'23\] Mobile Collaborative Learning over Opportunistic Internet of Vehicles - \[[PDF](https://doi.org/10.1109/TMC.2023.3273425)\]
+- \[TMC'23\] Tree Learning: Towards Promoting Coordination in Scalable Multi-Client Training Acceleration - \[[PDF](https://doi.org/10.1109/TMC.2023.3259007)\]
+- \[TMC'23\] PromptFL: Let Federated Participants Cooperatively Learn Prompts Instead of Models - Federated Learning in Age of Foundation Model - \[[PDF](https://doi.org/10.1109/TMC.2023.3302410)\]
+- \[TMC'23\] Enabling Long-Term Cooperation in Cross-Silo Federated Learning: A Repeated Game Perspective - \[[PDF](https://doi.org/10.1109/TMC.2022.3148263)\]
+- \[TMC'23\] Energy or Accuracy? Near-Optimal User Selection and Aggregator Placement for Federated Learning in MEC - \[[PDF](https://doi.org/10.1109/TMC.2023.3262829)\]
+- \[TKDE'23\] Adaptive Clustering based Personalized Federated Learning Framework for Next POI Recommendation with Location Noise - \[[PDF](https://doi.org/10.1109/TKDE.2023.3312511)\]
+- \[TGCN'23\] Exploiting UAV for Air–Ground Integrated Federated Learning: A Joint UAV Location and Resource Optimization Approach - \[[PDF](https://doi.org/10.1109/TGCN.2023.3242999)\]
+- \[TC'23\] Towards Data-Independent Knowledge Transfer in Model-Heterogeneous Federated Learning - \[[PDF](https://doi.org/10.1109/TC.2023.3272801)\]
+- \[JSTSP'23\] Knowledge Selection and Local Updating Optimization for Federated Knowledge Distillation With Heterogeneous Models - \[[PDF](https://doi.org/10.1109/JSTSP.2022.3223526)\]
+- \[JSAC'23\] nFEDge: A Blockchain-Based Incentive Mechanism in Hierarchical Federated Learning for End-Edge-Cloud Communications - \[[PDF](https://doi.org/10.1109/JSAC.2022.3213323)\]
+- \[IOTJ'23\] Multicore Federated Learning for Mobile-Edge Computing Platforms - \[[PDF](https://doi.org/10.1109/JIOT.2022.3224239)\]
+- \[INFOCOM'23\] Privacy as a Resource in Differentially Private Federated Learning - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228953)\]
+- \[INFOCOM WKSHPS'23\] Federated Learning at the Edge: An Interplay of Mini-batch Size and Aggregation Frequency - \[[PDF](https://doi.org/10.1109/INFOCOMWKSHPS57453.2023.10226109)\]
+- \[ICC WKSHPS'23\] Decentralized Federated Learning With Asynchronous Parameter Sharing - \[[PDF](https://doi.org/10.1109/ICCCWorkshops57813.2023.10233712)\]
+- \[ICASSP'23\] Semi-Federated Learning for Edge Intelligence with Imperfect SIC - \[[PDF](https://doi.org/10.1109/ICASSP49357.2023.10095782)\]
+- \[arXiv'23\] FedFA: Federated Learning with Feature Anchors to Align Features and Classifiers for Heterogeneous Data - \[[PDF](http://arxiv.org/abs/2211.09299)\]
+- \[arXiv'23\] Understanding Model Averaging in Federated Learning on Heterogeneous Data - \[[PDF](http://arxiv.org/abs/2305.07845)\]
+- \[arXiv'23\] MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates - \[[PDF](http://arxiv.org/abs/2306.12212)\]
+- \[arXiv'23\] Channel and Gradient-Importance Aware Device Scheduling for Over-the-Air Federated Learning - \[[PDF](http://arxiv.org/abs/2305.16854)\]
+- \[arXiv'23\] Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher - \[[PDF](http://arxiv.org/abs/2304.01731)\]
+- \[arXiv'23\] Binary Federated Learning with Client-Level Differential Privacy - \[[PDF](http://arxiv.org/abs/2308.03320)\]
+- \[arXiv'23\] Feature Matching Data Synthesis for Non-IID Federated Learning - \[[PDF](http://arxiv.org/abs/2308.04761)\]
+- \[arXiv'23\] FedCiR: Client-Invariant Representation Learning for Federated Non-IID Features - \[[PDF](http://arxiv.org/abs/2308.15786)\]
+- \[arXiv'23\] Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices - \[[PDF](http://arxiv.org/abs/2308.13894)\]
+- \[arXiv'23\] FedAdapter: Efficient Federated Learning for Modern NLP - \[[PDF](http://arxiv.org/abs/2205.10162)\]
+- \[arXiv'23\] Device-centric Federated Analytics At Ease - \[[PDF](http://arxiv.org/abs/2206.11491)\]
+- \[arXiv'23\] Efficient Federated Learning with Enhanced Privacy via Lottery Ticket Pruning in Edge Computing - \[[PDF](http://arxiv.org/abs/2305.01387)\]
+- \[arXiv'23\] When Computing Power Network Meets Distributed Machine Learning: An Efficient Federated Split Learning Framework - \[[PDF](http://arxiv.org/abs/2305.12979)\]
+- \[WCNC'22\] Semi-Decentralized Federated Edge Learning for Fast Convergence on Non-IID Data - \[[PDF](https://doi.org/10.1109/WCNC51071.2022.9771904)\]
+- \[TPDS'22\] Reputation-Aware Hedonic Coalition Formation for Efficient Serverless Hierarchical Federated Learning - \[[PDF](https://doi.org/10.1109/TPDS.2021.3139039)\]
+- \[TPDS'22\] PS+: A Simple yet Effective Framework for Fast Training on Parameter Server - \[[PDF](https://doi.org/10.1109/TPDS.2022.3200518)\]
+- \[TPDS'22\] Incentive-Aware Autonomous Client Participation in Federated Learning - \[[PDF](https://doi.org/10.1109/TPDS.2022.3148113)\]
+- \[TON'22\] Accelerating Federated Learning via Parallel Servers: A Theoretically Guaranteed Approach - \[[PDF](https://doi.org/10.1109/TNET.2022.3168939)\]
+- \[TMC'22\] FLASH: Heterogeneity-Aware Federated Learning at Scale - \[[PDF](https://doi.org/10.1109/TMC.2022.3214234)\]
+- \[TMC'22\] Collaboration in Participant-Centric Federated Learning: A Game-Theoretical Perspective - \[[PDF](https://doi.org/10.1109/TMC.2022.3194198)\]
+- \[TITS'22\] Federated Learning Enabled Credit Priority Task Processing for Transportation Big Data - \[[PDF](https://doi.org/10.1109/TITS.2022.3210405)\]
+- \[TBD'22\] Resource-Aware Federated Neural Architecture Search over Heterogeneous Mobile Devices - \[[PDF](https://doi.org/10.1109/TBDATA.2022.3227403)\]
+- \[SenSys'22\] TailorFL: Dual-Personalized Federated Learning under System and Data Heterogeneity - \[[PDF](https://dl.acm.org/doi/10.1145/3560905.3568503)\]
+- \[SECON'22\] Energy-efficient Federated Learning via Stabilization-aware On-device Update Scaling - \[[PDF](https://doi.org/10.1109/SECON55815.2022.9918541)\]
+- \[MobiSys'22\] Melon: breaking the memory wall for resource-efficient on-device machine learning - \[[PDF](https://doi.org/10.1145/3498361.3538928)\]
+- \[MobiSys'22\] FedBalancer: data and pace control for efficient federated learning on heterogeneous clients - \[[PDF](https://doi.org/10.1145/3498361.3538917)\]
+- \[INFOCOM'22\] A Profit-Maximizing Model Marketplace with Differentially Private Federated Learning - \[[PDF](https://doi.org/10.1109/INFOCOM48880.2022.9796833)\]
+- \[arXiv'22\] Exploiting Personalized Invariance for Better Out-of-distribution Generalization in Federated Learning - \[[PDF](http://arxiv.org/abs/2211.11243)\]
+- \[arXiv'22\] FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers - \[[PDF](http://arxiv.org/abs/2211.08025)\]
 
 ### Edge Inference
-- \[TWC'23\] Task-Oriented Communication for Edge Video Analytics
-- \[TWC'23\] Progressive Feature Transmission for Split Classification at the Wireless Edge
-- \[TMC'23\] PICO: Pipeline Inference Framework for Versatile CNNs on Diverse Mobile Devices
-- \[OSDI'23\] Optimizing Dynamic Neural Networks with Brainstorm
-- \[MobiCom'23\] AdaEvo: Edge-Assisted Continuous and Timely DNN Model Evolution for Mobile Devices
-- \[JSAC'23\] Resource Allocation for Multiuser Edge Inference With Batching and Early Exiting
-- \[JSAC'23\] GNN at the Edge: Cost-Efficient Graph Neural Network Processing Over Distributed Edge Servers
-- \[EuroSys'23\] Tabi: An Efficient Multi-Level Inference System for Large Language Models
-- \[MobiSys'23\] Boosting DNN Cold Inference on Edge Devices
-- \[arXiv'23\] Task-Oriented Communication with Out-of-Distribution Detection: An Information Bottleneck Framework
-- \[arXiv'23\] Joint Batching and Scheduling for High-Throughput Multiuser Edge AI with Asynchronous Task Arrivals
-- \[arXiv'23\] Adaptive DNN Surgery for Selfish Inference Acceleration with On-demand Edge Resource
-- \[arXiv'23\] Serving MoE Models on Resource-constrained Edge Devices via Dynamic Expert Swapping
-- \[arXiv'23\] Accelerating In-Browser Deep Learning Inference on Diverse Edge Clients through Just-in-Time Kernel Optimizations
-- \[WWW'22\] Fograph: Enabling Real-Time Deep Graph Inference with Fog Computing
-- \[TWC'22\] Task-Oriented Communication for Multi-Device Cooperative Edge Inference
-- \[TWC'22\] Data Partition and Rate Control for Learning and Energy Efficient Edge Intelligence
-- \[TMC'22\] Hastening Stream Offloading of Inference via Multi-exit DNNs in Mobile Edge Computing
-- \[TMC'22\] EdgeAdaptor: Online Configuration Adaption, Model Selection and Resource Provisioning for Edge DNN Inference Serving at Scale
-- \[MobiSys'22\] CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices
-- \[MICRO'22\] ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization
-- \[JSA'22\] Edge intelligence in motion: Mobility-aware dynamic DNN inference service migration with downtime in mobile edge computing
-- \[JSA'22\] Inference replication at edges via combinatorial multi-armed bandit
+- \[TWC'23\] Task-Oriented Communication for Edge Video Analytics - \[[PDF](https://doi.org/10.1109/TWC.2023.3314888)\]
+- \[TWC'23\] Progressive Feature Transmission for Split Classification at the Wireless Edge - \[[PDF](https://doi.org/10.1109/TWC.2022.3221778)\]
+- \[TMC'23\] PICO: Pipeline Inference Framework for Versatile CNNs on Diverse Mobile Devices - \[[PDF](https://doi.org/10.1109/TMC.2023.3265111)\]
+- \[OSDI'23\] Optimizing Dynamic Neural Networks with Brainstorm - \[[PDF](https://www.usenix.org/conference/osdi23/presentation/cui)\]
+- \[TMC'23\] AdaEvo: Edge-Assisted Continuous and Timely DNN Model Evolution for Mobile Devices - \[[PDF](https://doi.org/10.1109/TMC.2023.3316388)\]
+- \[JSAC'23\] Resource Allocation for Multiuser Edge Inference With Batching and Early Exiting - \[[PDF](https://doi.org/10.1109/JSAC.2023.3242724)\]
+- \[JSAC'23\] GNN at the Edge: Cost-Efficient Graph Neural Network Processing Over Distributed Edge Servers - \[[PDF](https://doi.org/10.1109/JSAC.2022.3229422)\]
+- \[EuroSys'23\] Tabi: An Efficient Multi-Level Inference System for Large Language Models - \[[PDF](https://doi.org/10.1145/3552326.3587438)\]
+- \[MobiSys'23\] Boosting DNN Cold Inference on Edge Devices - \[[PDF](https://doi.org/10.1145/3581791.3596842)\]
+- \[arXiv'23\] Task-Oriented Communication with Out-of-Distribution Detection: An Information Bottleneck Framework - \[[PDF](http://arxiv.org/abs/2305.12423)\]
+- \[arXiv'23\] Joint Batching and Scheduling for High-Throughput Multiuser Edge AI with Asynchronous Task Arrivals - \[[PDF](http://arxiv.org/abs/2307.14350)\]
+- \[arXiv'23\] Adaptive DNN Surgery for Selfish Inference Acceleration with On-demand Edge Resource - \[[PDF](http://arxiv.org/abs/2306.12185)\]
+- \[arXiv'23\] Serving MoE Models on Resource-constrained Edge Devices via Dynamic Expert Swapping - \[[PDF](http://arxiv.org/abs/2308.15030)\]
+- \[arXiv'23\] Accelerating In-Browser Deep Learning Inference on Diverse Edge Clients through Just-in-Time Kernel Optimizations - \[[PDF](http://arxiv.org/abs/2309.08978)\]
+- \[WWW'22\] Fograph: Enabling Real-Time Deep Graph Inference with Fog Computing - \[[PDF](https://dl.acm.org/doi/10.1145/3485447.3511982)\]
+- \[TWC'22\] Task-Oriented Communication for Multi-Device Cooperative Edge Inference - \[[PDF](https://doi.org/10.1109/TWC.2022.3191118)\]
+- \[TWC'22\] Data Partition and Rate Control for Learning and Energy Efficient Edge Intelligence - \[[PDF](https://doi.org/10.1109/TWC.2022.3173262)\]
+- \[TMC'22\] Hastening Stream Offloading of Inference via Multi-exit DNNs in Mobile Edge Computing - \[[PDF](https://doi.org/10.1109/TMC.2022.3218724)\]
+- \[TMC'22\] EdgeAdaptor: Online Configuration Adaption, Model Selection and Resource Provisioning for Edge DNN Inference Serving at Scale - \[[PDF](https://doi.org/10.1109/TMC.2022.3189186)\]
+- \[MobiSys'22\] CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices - \[[PDF](https://dl.acm.org/doi/10.1145/3498361.3538932)\]
+- \[MICRO'22\] ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization - \[[PDF](https://doi.org/10.1109/MICRO56248.2022.00095)\]
+- \[JSA'22\] Edge intelligence in motion: Mobility-aware dynamic DNN inference service migration with downtime in mobile edge computing - \[[PDF](https://doi.org/10.1016/j.sysarc.2022.102664)\]
+- \[JSA'22\] Inference replication at edges via combinatorial multi-armed bandit - \[[PDF](https://doi.org/10.1016/j.sysarc.2022.102636)\]
 
 ### Optimization for Edge systems
-- \[TSC'23\] Role-Based User Allocation Driven by Criticality in Edge Computing
-- \[TSC'23\] Joint Optimization of Coverage and Reliability for Application Placement in Mobile Edge Computing
-- \[TPDS'23\] CoopEdge+: Enabling Decentralized, Secure and Cooperative Multi-Access Edge Computing Based on Blockchain
-- \[TPDS'23\] EESaver: Saving Energy Dynamically for Green Multi-Access Edge Computing
-- \[TPDS'23\] ProScale: Proactive Autoscaling for Microservice With Time-Varying Workload at the Edge
-- \[TNSE'23\] Re-Scheduling IoT Services in Edge Networks
-- \[TMC'23\] OL-EUA: Online User Allocation for NOMA-Based Mobile Edge Computing
-- \[TMC'23\] Multi-Agent Deep Reinforcement Learning Based UAV Trajectory Optimization for Differentiated Services
-- \[TMC'23\] Lightweight Imitation Learning for Real-Time Cooperative Service Migration
-- \[IWQoS'23\] OSCA: Online User-managed Server Selection and Configuration Adaptation for Interactive MAR
-- \[INFOCOM'23\] Latency-Optimal Pyramid-based Joint Communication and Computation Scheduling for Distributed Edge Computing
-- \[INFOCOM'23\] Dynamic Edge-centric Resource Provisioning for Online and Offline Services Co-location
-- \[TSC'22\] ST-EUA: Spatio-temporal Edge User Allocation with Task Decomposition
-- \[TPDS'22\] Joint Application Placement and Request Routing Optimization for Dynamic Edge Computing Service Management
-- \[TMC'22\] Online User and Power Allocation in Dynamic NOMA-Based Mobile Edge Computing
-- \[TMC'22\] Price Competition in Multi-Server Edge Computing Networks under SAA and SIQ Models
-- \[IWQoS'22\] An Online Approach for DNN Model Caching and Processor Allocation in Edge Computing
-- \[INFOCOM'22\] Two Time-Scale Joint Service Caching and Task Offloading for UAV-assisted Mobile Edge Computing
-- \[INFOCOM'22\] Online File Caching in Latency-Sensitive Systems with Delayed Hits and Bypassing
-- \[ICPP'22\] Energy-efficient Edge Server Management for Edge Computing: A Game-theoretical Approach
-- \[CN'22\] Adaptive provisioning for mobile cloud gaming at edges
+- \[TSC'23\] Role-Based User Allocation Driven by Criticality in Edge Computing - \[[PDF](https://doi.org/10.1109/TSC.2023.3280498)\]
+- \[TSC'23\] Joint Optimization of Coverage and Reliability for Application Placement in Mobile Edge Computing - \[[PDF](https://doi.org/10.1109/TSC.2023.3296742)\]
+- \[TPDS'23\] CoopEdge+: Enabling Decentralized, Secure and Cooperative Multi-Access Edge Computing Based on Blockchain - \[[PDF](https://doi.org/10.1109/TPDS.2022.3231296)\]
+- \[TPDS'23\] EESaver: Saving Energy Dynamically for Green Multi-Access Edge Computing - \[[PDF](https://doi.org/10.1109/TPDS.2023.3277619)\]
+- \[TPDS'23\] ProScale: Proactive Autoscaling for Microservice With Time-Varying Workload at the Edge - \[[PDF](https://doi.org/10.1109/TPDS.2023.3238429)\]
+- \[TNSE'23\] Re-Scheduling IoT Services in Edge Networks - \[[PDF](https://doi.org/10.1109/TNSM.2023.3242937)\]
+- \[TMC'23\] OL-EUA: Online User Allocation for NOMA-Based Mobile Edge Computing - \[[PDF](https://doi.org/10.1109/TMC.2021.3112941)\]
+- \[TMC'23\] Multi-Agent Deep Reinforcement Learning Based UAV Trajectory Optimization for Differentiated Services - \[[PDF](https://doi.org/10.1109/TMC.2023.3312276)\]
+- \[TMC'23\] Lightweight Imitation Learning for Real-Time Cooperative Service Migration - \[[PDF](https://doi.org/10.1109/TMC.2023.3239845)\]
+- \[IWQoS'23\] OSCA: Online User-managed Server Selection and Configuration Adaptation for Interactive MAR - \[[PDF](https://doi.org/10.1109/IWQoS57198.2023.10188796)\]
+- \[INFOCOM'23\] Latency-Optimal Pyramid-based Joint Communication and Computation Scheduling for Distributed Edge Computing - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228964)\]
+- \[INFOCOM'23\] Dynamic Edge-centric Resource Provisioning for Online and Offline Services Co-location - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228949)\]
+- \[TSC'22\] ST-EUA: Spatio-temporal Edge User Allocation with Task Decomposition - \[[PDF](https://doi.org/10.1109/TSC.2022.3144441)\]
+- \[TPDS'22\] Joint Application Placement and Request Routing Optimization for Dynamic Edge Computing Service Management - \[[PDF](https://doi.org/10.1109/TPDS.2022.3195205)\]
+- \[TMC'22\] Online User and Power Allocation in Dynamic NOMA-Based Mobile Edge Computing - \[[PDF](https://doi.org/10.1109/TMC.2022.3193366)\]
+- \[TMC'22\] Price Competition in Multi-Server Edge Computing Networks under SAA and SIQ Models - \[[PDF](https://doi.org/10.1109/TMC.2022.3227675)\]
+- \[IWQoS'22\] An Online Approach for DNN Model Caching and Processor Allocation in Edge Computing - \[[PDF](https://doi.org/10.1109/IWQoS54832.2022.9812874)\]
+- \[INFOCOM'22\] Two Time-Scale Joint Service Caching and Task Offloading for UAV-assisted Mobile Edge Computing - \[[PDF](https://doi.org/10.1109/INFOCOM48880.2022.9796714)\]
+- \[INFOCOM'22\] Online File Caching in Latency-Sensitive Systems with Delayed Hits and Bypassing - \[[PDF](https://doi.org/10.1109/INFOCOM48880.2022.9796969)\]
+- \[ICPP'22\] Energy-efficient Edge Server Management for Edge Computing: A Game-theoretical Approach - \[[PDF](https://doi.org/10.1145/3545008.3545079)\]
+- \[CN'22\] Adaptive provisioning for mobile cloud gaming at edges - \[[PDF](https://doi.org/10.1016/j.comnet.2021.108704)\]
 
 ### Edge AI Systems
-- \[TCC'23\] AI-Bazaar: A Cloud-Edge Computing Power Trading Framework for Ubiquitous AI Services
-- \[COMST'23\] Machine Learning for Large-Scale Optimization in 6G Wireless Networks
-- \[arXiv'23\] Message Passing Meets Graph Neural Networks: A New Paradigm for Massive MIMO Systems
-- \[arXiv'23\] Efficient Parallel Split Learning over Resource-constrained Wireless Edge Networks
-- \[WWW'22\] Pyramid: Enabling Hierarchical Neural Networks with Edge Computing
-- \[JCIN'22\] Resource-Constrained Edge AI with Early Exit Prediction
-- \[ICC'22\] Loading Cost-Aware Model Caching and Request Routing for Cooperative Edge Inference
+- \[TCC'23\] AI-Bazaar: A Cloud-Edge Computing Power Trading Framework for Ubiquitous AI Services - \[[PDF](https://doi.org/10.1109/TCC.2022.3201544)\]
+- \[COMST'23\] Machine Learning for Large-Scale Optimization in 6G Wireless Networks - \[[PDF](https://doi.org/10.1109/COMST.2023.3300664)\]
+- \[arXiv'23\] Message Passing Meets Graph Neural Networks: A New Paradigm for Massive MIMO Systems - \[[PDF](http://arxiv.org/abs/2302.06896)\]
+- \[arXiv'23\] Efficient Parallel Split Learning over Resource-constrained Wireless Edge Networks - \[[PDF](http://arxiv.org/abs/2303.15991)\]
+- \[WWW'22\] Pyramid: Enabling Hierarchical Neural Networks with Edge Computing - \[[PDF](https://dl.acm.org/doi/10.1145/3485447.3511990)\]
+- \[JCIN'22\] Resource-Constrained Edge AI with Early Exit Prediction - \[[PDF](https://doi.org/10.23919/JCIN.2022.9815196)\]
+- \[ICC'22\] Loading Cost-Aware Model Caching and Request Routing for Cooperative Edge Inference - \[[PDF](https://doi.org/10.1109/ICC45855.2022.9838823)\]
 
 ### System-level Analytics and Evaluation
-- \[TKDE'23\] A Measurement-Driven Analysis and Prediction of Content Propagation in the Device-to-Device Social Networks
-- \[KDD'23\] One for All: Unified Workload Prediction for Dynamic Multi-tenant Edge Cloud Platforms
-- \[IWQoS'23\] How Far Have Edge Clouds Gone? A Spatial-Temporal Analysis of Edge Network Latency In the Wild
-- \[IWQoS'23\] A Holistic QoS View of Crowdsourced Edge Cloud Platform
-- \[WWWJ'23\] A large-scale holistic measurement of crowdsourced edge cloud platform
-- \[TMC'23\] A Comprehensive Deep Learning Library Benchmark and Optimal Library Selection
-- \[WWW'22\] Benchmarking of DL Libraries and Models on Mobile Devices
-- \[WWW'22\] Commutativity-guaranteed Docker Image Reconstruction towards Effective Layer Sharing
-- \[TMC'22\] Fine-Grained Spatio-Temporal Distribution Prediction of Mobile Content Delivery in 5G Ultra-Dense Networks
-- \[arXiv'22\] SoC-Cluster as an Edge Server: an Application-driven Measurement Study
+- \[TKDE'23\] A Measurement-Driven Analysis and Prediction of Content Propagation in the Device-to-Device Social Networks - \[[PDF](https://doi.org/10.1109/TKDE.2022.3219399)\]
+- \[KDD'23\] One for All: Unified Workload Prediction for Dynamic Multi-tenant Edge Cloud Platforms - \[[PDF](https://doi.org/10.1145/3580305.3599453)\]
+- \[IWQoS'23\] How Far Have Edge Clouds Gone? A Spatial-Temporal Analysis of Edge Network Latency In the Wild - \[[PDF](https://doi.org/10.1109/IWQoS57198.2023.10188741)\]
+- \[IWQoS'23\] A Holistic QoS View of Crowdsourced Edge Cloud Platform - \[[PDF](https://doi.org/10.1109/IWQoS57198.2023.10188726)\]
+- \[WWWJ'23\] A large-scale holistic measurement of crowdsourced edge cloud platform - \[[PDF](https://doi.org/10.1007/s11280-023-01201-y)\]
+- \[TMC'23\] A Comprehensive Deep Learning Library Benchmark and Optimal Library Selection - \[[PDF](https://doi.org/10.1109/TMC.2023.3301973)\]
+- \[WWW'22\] Commutativity-guaranteed Docker Image Reconstruction towards Effective Layer Sharing - \[[PDF](https://dl.acm.org/doi/10.1145/3485447.3512154)\]
+- \[TMC'22\] Fine-Grained Spatio-Temporal Distribution Prediction of Mobile Content Delivery in 5G Ultra-Dense Networks - \[[PDF](https://doi.org/10.1109/TMC.2022.3226448)\]
+- \[arXiv'22\] Benchmarking of DL Libraries and Models on Mobile Devices - \[[PDF](https://arxiv.org/abs/2202.06512)\]
+- \[arXiv'22\] SoC-Cluster as an Edge Server: an Application-driven Measurement Study - \[[PDF](http://arxiv.org/abs/2212.12842)\]
 
 ### Over-the-air Computation
-- \[WCNC'23\] Task-Oriented Over-the-Air Computation for Multi-Device Edge Split Inference
-- \[TWC'23\] Task-Oriented Over-the-Air Computation for Multi-Device Edge AI
-- \[arXiv'23\] Spectrum Breathing: Protecting Over-the-Air Federated Learning Against Interference
-- \[JSAC'22\] Distributed Over-the-air Computing for Fast Distributed Optimization: Beamforming Design and Convergence Analysis
+- \[WCNC'23\] Task-Oriented Over-the-Air Computation for Multi-Device Edge Split Inference - \[[PDF](https://doi.org/10.1109/WCNC55385.2023.10118681)\]
+- \[TWC'23\] Task-Oriented Over-the-Air Computation for Multi-Device Edge AI - \[[PDF](https://doi.org/10.1109/TWC.2023.3294703)\]
+- \[arXiv'23\] Spectrum Breathing: Protecting Over-the-Air Federated Learning Against Interference - \[[PDF](http://arxiv.org/abs/2305.05933)\]
+- \[JSAC'22\] Distributed Over-the-air Computing for Fast Distributed Optimization: Beamforming Design and Convergence Analysis - \[[PDF](https://doi.org/10.1109/JSAC.2022.3223661)\]
 
 ### Coded Distributed Computing
-- \[TWC'23\] Elastic Resource Allocation for Coded Distributed Computing Over Heterogeneous Wireless Edge Networks
-- \[TMC'23\] Resource Optimization for UAV-assisted Wireless Power Charging Enabled Hybrid Coded Edge Computing Network
-- \[TMC'22\] Secure and Efficient Coded Multi-Access Edge Computing with Generalized Graph Neural Networks
+- \[TWC'23\] Elastic Resource Allocation for Coded Distributed Computing Over Heterogeneous Wireless Edge Networks - \[[PDF](https://doi.org/10.1109/TWC.2022.3213256)\]
+- \[TMC'23\] Resource Optimization for UAV-assisted Wireless Power Charging Enabled Hybrid Coded Edge Computing Network - \[[PDF](https://doi.org/10.1109/TMC.2023.3246994)\]
+- \[TMC'22\] Secure and Efficient Coded Multi-Access Edge Computing with Generalized Graph Neural Networks - \[[PDF](https://doi.org/10.1109/TMC.2022.3172117)\]
 
 ### Edge Security and Privacy
-- \[TWC'23\] Securing Large-Scale D2D Networks Using Covert Communication and Friendly Jamming
-- \[TMC'23\] On the Robustness of Channel Allocation in Joint Radar and Communication Systems: An Auction Approach
-- \[ToN'23\] Privacy Protection Under Incomplete Social and Data Correlation Information
-- \[KDD'23\] Investigating Trojan Attacks on Pre-trained Language Model-powered Database Middleware
-- \[IOTJ'23\] The Security and Privacy of Mobile Edge Computing: An Artificial Intelligence Perspective
+- \[TWC'23\] Securing Large-Scale D2D Networks Using Covert Communication and Friendly Jamming - \[[PDF](https://doi.org/10.1109/TWC.2023.3280464)\]
+- \[TMC'23\] On the Robustness of Channel Allocation in Joint Radar and Communication Systems: An Auction Approach - \[[PDF](https://doi.org/10.1109/TMC.2023.3276934)\]
+- \[ToN'23\] Privacy Protection Under Incomplete Social and Data Correlation Information - \[[PDF](https://doi.org/10.1109/TNET.2023.3254549)\]
+- \[KDD'23\] Investigating Trojan Attacks on Pre-trained Language Model-powered Database Middleware - \[[PDF](https://dl.acm.org/doi/10.1145/3580305.3599395)\]
+- \[IOTJ'23\] The Security and Privacy of Mobile Edge Computing: An Artificial Intelligence Perspective - \[[PDF](https://doi.org/10.1109/JIOT.2023.3304318)\]
 
 ### Edge Cahcing
-- \[TPDS'23\] A Proactive On-Demand Content Placement Strategy in Edge Intelligent Gateways
-- \[TMC'23\] Efficient Algorithms for Service Chaining in NFV-Enabled Satellite Edge Networks
-- \[JSAC'23\] Federated Deep Reinforcement Learning for Recommendation-Enabled Edge Caching in Mobile Edge-Cloud Computing Networks
-- \[TMC'22\] Near-Optimal and Collaborative Service Caching in Mobile Edge Clouds
-- \[TMC'22\] Stable Service Caching in MECs of Hierarchical Service Markets with Uncertain Request Rates
-- \[IPCCC'22\] Pricing in the Open Market of Crowdsourced Video Edge Caching: A Newcomer Perspective
+- \[TPDS'23\] A Proactive On-Demand Content Placement Strategy in Edge Intelligent Gateways - \[[PDF](https://doi.org/10.1109/TPDS.2023.3249797)\]
+- \[TMC'23\] Efficient Algorithms for Service Chaining in NFV-Enabled Satellite Edge Networks - \[[PDF](https://doi.org/10.1109/TMC.2023.3312352)\]
+- \[JSAC'23\] Federated Deep Reinforcement Learning for Recommendation-Enabled Edge Caching in Mobile Edge-Cloud Computing Networks - \[[PDF](https://doi.org/10.1109/JSAC.2023.3235443)\]
+- \[TMC'22\] Near-Optimal and Collaborative Service Caching in Mobile Edge Clouds - \[[PDF](https://doi.org/10.1109/TMC.2022.3144175)\]
+- \[TMC'22\] Stable Service Caching in MECs of Hierarchical Service Markets with Uncertain Request Rates - \[[PDF](https://doi.org/10.1109/TMC.2022.3149870)\]
+- \[IPCCC'22\] Pricing in the Open Market of Crowdsourced Video Edge Caching: A Newcomer Perspective - \[[PDF](https://doi.org/10.1109/IPCCC55026.2022.9894319)\]
 
 ### Edge Data Storage and Analytics
-- \[TPDS'23\] Enabling Balanced Data Deduplication in Mobile Edge Computing
-- \[SIGIR'23\] EDIndex: Enabling Fast Data Queries in Edge Storage Systems
-- \[TSC'22\] Data Caching Optimization With Fairness in Mobile Edge Computing
-- \[TSC'22\] Cost-Effective Data Placement in Edge Storage Systems with Erasure Code
-- \[TPDS'22\] CSEdge: Enabling Collaborative Edge Storage for Multi-Access Edge Computing Based on Blockchain
-- \[KDD'22\] EdgeWatch: Collaborative Investigation of Data Integrity at the Edge based on Blockchain
-- \[ICPP'22\] Formulating Interference-aware Data Delivery Strategies in Edge Storage Systems
+- \[TPDS'23\] Enabling Balanced Data Deduplication in Mobile Edge Computing - \[[PDF](https://doi.org/10.1109/TPDS.2023.3247061)\]
+- \[SIGIR'23\] EDIndex: Enabling Fast Data Queries in Edge Storage Systems - \[[PDF](https://doi.org/10.1145/3539618.3591676)\]
+- \[TSC'22\] Data Caching Optimization With Fairness in Mobile Edge Computing - \[[PDF](https://doi.org/10.1109/TSC.2022.3197881)\]
+- \[TSC'22\] Cost-Effective Data Placement in Edge Storage Systems with Erasure Code - \[[PDF](https://doi.org/10.1109/TSC.2022.3152849)\]
+- \[TPDS'22\] CSEdge: Enabling Collaborative Edge Storage for Multi-Access Edge Computing Based on Blockchain - \[[PDF](https://doi.org/10.1109/TPDS.2021.3131680)\]
+- \[KDD'22\] EdgeWatch: Collaborative Investigation of Data Integrity at the Edge based on Blockchain - \[[PDF](https://doi.org/10.1145/3534678.3539104)\]
+- \[ICPP'22\] Formulating Interference-aware Data Delivery Strategies in Edge Storage Systems - \[[PDF](https://doi.org/10.1145/3545008.3545078)\]
 
 ### Cloud-Edge Systems
-- \[TSC'23\] CompCube: A Space-Time-Request Resource Trading Framework for Edge-Cloud Service Market
-- \[ToN'23\] Collaborative Learning-Based Scheduling for Kubernetes-Oriented Edge-Cloud Network
-- \[JSAC'23\] EdgeMatrix: A Resource-Redefined Scheduling Framework for SLA-Guaranteed Multi-Tier Edge-Cloud Computing Systems
+- \[TSC'23\] CompCube: A Space-Time-Request Resource Trading Framework for Edge-Cloud Service Market - \[[PDF](https://doi.org/10.1109/TSC.2023.3261553)\]
+- \[ToN'23\] Collaborative Learning-Based Scheduling for Kubernetes-Oriented Edge-Cloud Network - \[[PDF](https://doi.org/10.1109/TNET.2023.3267168)\]
+- \[JSAC'23\] EdgeMatrix: A Resource-Redefined Scheduling Framework for SLA-Guaranteed Multi-Tier Edge-Cloud Computing Systems - \[[PDF](https://doi.org/10.1109/JSAC.2022.3229444)\]
 
 ### Services Provision
-- \[TC'23\] Stateful Serverless Application Placement in MEC With Function and State Dependencies
-- \[INFOCOM'23\] Enabling Age-Aware Big Data Analytics in Serverless Edge Clouds
-- \[TSC'22\] Service Home Identification of Multiple-Source IoT Applications in Edge Computing
-- \[TON'22\] Near Optimal Learning-Driven Mechanisms for Stable NFV Markets in Multitier Cloud Networks
-- \[TMC'22\] Digital Twin-Assisted, SFC-Enabled Service Provisioning in Mobile Edge Computing
-- \[TMC'22\] Budget-Aware User Satisfaction Maximization on Service Provisioning in Mobile Edge Computing
-- \[MASS'22\] SFC-Enabled Reliable Service Provisioning in Mobile Edge Computing via Digital Twins
-- \[INFOCOM'22\] Schedule or Wait: Age-Minimization for IoT Big Data Processing in MEC via Online Learning
+- \[TC'23\] Stateful Serverless Application Placement in MEC With Function and State Dependencies - \[[PDF](https://doi.org/10.1109/TC.2023.3262947)\]
+- \[INFOCOM'23\] Enabling Age-Aware Big Data Analytics in Serverless Edge Clouds - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228905)\]
+- \[TSC'22\] Service Home Identification of Multiple-Source IoT Applications in Edge Computing - \[[PDF](https://doi.org/10.1109/TSC.2022.3176576)\]
+- \[TON'22\] Near Optimal Learning-Driven Mechanisms for Stable NFV Markets in Multitier Cloud Networks - \[[PDF](https://doi.org/10.1109/TNET.2022.3179295)\]
+- \[TMC'22\] Digital Twin-Assisted, SFC-Enabled Service Provisioning in Mobile Edge Computing - \[[PDF](https://doi.org/10.1109/TMC.2022.3227248)\]
+- \[TMC'22\] Budget-Aware User Satisfaction Maximization on Service Provisioning in Mobile Edge Computing - \[[PDF](https://doi.org/10.1109/TMC.2022.3205427)\]
+- \[MASS'22\] SFC-Enabled Reliable Service Provisioning in Mobile Edge Computing via Digital Twins - \[[PDF](https://doi.org/10.1109/MASS56207.2022.00052)\]
+- \[INFOCOM'22\] Schedule or Wait: Age-Minimization for IoT Big Data Processing in MEC via Online Learning - \[[PDF](https://doi.org/10.1109/INFOCOM48880.2022.9796718)\]
 
 ### Sensing and Communications
-- \[arXiv'23\] Task-Oriented Integrated Sensing, Computation and Communication for Wireless Edge AI
-- \[TWC'22\] Joint Sensing and Communication-Rate Control for Energy Efficient Mobile Crowd Sensing
-- \[MobiCom'22\] Wirelessly powered integrated sensing and communication
+- \[arXiv'23\] Task-Oriented Integrated Sensing, Computation and Communication for Wireless Edge AI - \[[PDF](http://arxiv.org/abs/2306.06603)\]
+- \[TWC'22\] Joint Sensing and Communication-Rate Control for Energy Efficient Mobile Crowd Sensing - \[[PDF](https://doi.org/10.1109/TWC.2022.3204269)\]
+- \[MobiCom'22\] Wirelessly powered integrated sensing and communication - \[[PDF](https://dl.acm.org/doi/10.1145/3556562.3558564)\]
 
 ### On-device intelligence
-- \[TMC'23\] AdaEvo: Edge-Assisted Continuous and Timely DNN Model Evolution for Mobile Devices
-- \[MWUT'23\] DAPPER: Label-Free Performance Estimation after Personalization for Heterogeneous Mobile Sensing
-- \[MobiSys'23\] NN-Stretch: Automatic Neural Network Branching for Parallel Inference on Heterogeneous Multi-Processors
-- \[MobiCom'23\] AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments
-- \[arXiv'23\] Generative Model for Models: Rapid DNN Customization for Diverse Tasks and Resource Constraints
-- \[arXiv'23\] Empowering LLM to use Smartphone for Intelligent Task Automation
-- \[SenSys'22\] Hyperion: A Generic and Distributed Mobile Offloading Framework on OpenCL
-- \[MobiCom'22\] MobiDepth: real-time depth estimation using on-device dual cameras
-- \[ICCD'22\] Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training
+- \[TMC'23\] AdaEvo: Edge-Assisted Continuous and Timely DNN Model Evolution for Mobile Devices - \[[PDF](https://doi.org/10.1109/TMC.2023.3316388)\]
+- \[MWUT'23\] DAPPER: Label-Free Performance Estimation after Personalization for Heterogeneous Mobile Sensing - \[[PDF](https://dl.acm.org/doi/10.1145/3596256)\]
+- \[MobiSys'23\] NN-Stretch: Automatic Neural Network Branching for Parallel Inference on Heterogeneous Multi-Processors - \[[PDF](https://dl.acm.org/doi/10.1145/3581791.3596870)\]
+- \[MobiCom'23\] AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments - \[[PDF](https://dl.acm.org/doi/10.1145/3570361.3592529)\]
+- \[arXiv'23\] Generative Model for Models: Rapid DNN Customization for Diverse Tasks and Resource Constraints - \[[PDF](http://arxiv.org/abs/2308.15003)\]
+- \[arXiv'23\] Empowering LLM to use Smartphone for Intelligent Task Automation - \[[PDF](http://arxiv.org/abs/2308.15272)\]
+- \[SenSys'22\] Hyperion: A Generic and Distributed Mobile Offloading Framework on OpenCL - \[[PDF](https://dl.acm.org/doi/10.1145/3560905.3568511)\]
+- \[MobiCom'22\] MobiDepth: real-time depth estimation using on-device dual cameras - \[[PDF](https://dl.acm.org/doi/10.1145/3495243.3560517)\]
 
 ### Video Analytics
-- \[TMC'23\] Live Migration of Video Analytics Applications in Edge Computing
-- \[TMC'23\] EMS: Erasure-Coded Multi-Source Streaming for UHD Videos Within Cloud Native 5G Networks
-- \[INFOCOM'23\] Crowd2: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing
-- \[INFOCOM'23\] ResMap: Exploiting Sparse Residual Feature Map for Accelerating Cross-Edge Video Analytics
-- \[arXiv'23\] Low-complexity Deep Video Compression with A Distributed Coding Architecture
-- \[SECON'22\] Focus! Provisioning Attention-aware Detection for Real-time On-device Video Analytics
-- \[ICC'22\] Multi-server Multi-user Game at Edges for Heterogeneous Video Analytics
+- \[TMC'23\] Live Migration of Video Analytics Applications in Edge Computing - \[[PDF](https://doi.org/10.1109/TMC.2023.3246539)\]
+- \[TMC'23\] EMS: Erasure-Coded Multi-Source Streaming for UHD Videos Within Cloud Native 5G Networks - \[[PDF](https://doi.org/10.1109/TMC.2023.3238356)\]
+- \[INFOCOM'23\] Crowd2: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228927)\]
+- \[INFOCOM'23\] ResMap: Exploiting Sparse Residual Feature Map for Accelerating Cross-Edge Video Analytics - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228990)\]
+- \[arXiv'23\] Low-complexity Deep Video Compression with A Distributed Coding Architecture - \[[PDF](http://arxiv.org/abs/2303.11599)\]
+- \[SECON'22\] Focus! Provisioning Attention-aware Detection for Real-time On-device Video Analytics - \[[PDF](https://doi.org/10.1109/SECON55815.2022.9918169)\]
+- \[ICC'22\] Multi-server Multi-user Game at Edges for Heterogeneous Video Analytics - \[[PDF](https://doi.org/10.1109/ICC45855.2022.9839250)\]
 
 ### Wireless Communications
-- \[TSC'23\] RuleDRL: Reliability-Aware SFC Provisioning with Bounded Approximations in Dynamic Environments
-- \[TON'23\] Reinforcement Learning-Based Particle Swarm Optimization for End-to-End Traffic Scheduling in TSN-5G Networks
-- \[TCOMM'23\] Mobility-Aware Proactive Flow Setup in Software-Defined Mobile Edge Networks
-- \[IWQoS'23\] Optimizing Average AoI with Directional Charging for Wireless-Powered Network Edge
-- \[DCN'23\] A survey on semantic communications: technologies, solutions, applications and challenges
-- \[arXiv'23\] Joint Activity-Delay Detection and Channel Estimation for Asynchronous Massive Random Access
-- \[IOTJ'22\] Faster Activity and Data Detection in Massive Random Access: A Multi-armed Bandit Approach
-- \[arXiv'22\] Graph Neural Networks for Wireless Communications: From Theory to Practice
-- \[TMC'23\] Decoupled Association with Rate Splitting Multiple Access in UAV-assisted Cellular Networks Using Multi-agent Deep Reinforcement Learning
-- \[TMC'23\] Efficient Dynamic Distributed Resource Slicing in 6G Multi-Access Edge Computing Networks with Online ADMM and Message Passing Graph Neural Networks
-- \[JSAC'23\] Task-Oriented Delay-Aware Multi-Tier Computing in Cell-Free Massive MIMO Systems
-- \[JSAC'23\] AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing
-- \[JSAC'23\] Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding
+- \[TSC'23\] RuleDRL: Reliability-Aware SFC Provisioning with Bounded Approximations in Dynamic Environments - \[[PDF](https://doi.org/10.1109/TSC.2023.3281759)\]
+- \[TON'23\] Reinforcement Learning-Based Particle Swarm Optimization for End-to-End Traffic Scheduling in TSN-5G Networks - \[[PDF](https://doi.org/10.1109/TNET.2023.3276363)\]
+- \[TCOMM'23\] Mobility-Aware Proactive Flow Setup in Software-Defined Mobile Edge Networks - \[[PDF](https://doi.org/10.1109/TCOMM.2023.3238396)\]
+- \[IWQoS'23\] Optimizing Average AoI with Directional Charging for Wireless-Powered Network Edge - \[[PDF](https://doi.org/10.1109/IWQoS57198.2023.10188771)\]
+- \[arXiv'23\] Joint Activity-Delay Detection and Channel Estimation for Asynchronous Massive Random Access - \[[PDF](https://doi.org/[10.1145/3543507.3583347](http://arxiv.org/abs/2305.12372))\]
+- \[arXiv'22\] Graph Neural Networks for Wireless Communications: From Theory to Practice - \[[PDF](http://arxiv.org/abs/2203.10800)\]
+- \[TMC'23\] Decoupled Association with Rate Splitting Multiple Access in UAV-assisted Cellular Networks Using Multi-agent Deep Reinforcement Learning - \[[PDF](10.1109/TMC.2023.3256404)\]
+- \[TMC'23\] Efficient Dynamic Distributed Resource Slicing in 6G Multi-Access Edge Computing Networks with Online ADMM and Message Passing Graph Neural Networks - \[[PDF](https://doi.org/10.1109/TMC.2023.3262514)\]
+- \[JSAC'23\] Task-Oriented Delay-Aware Multi-Tier Computing in Cell-Free Massive MIMO Systems - \[[PDF](https://doi.org/10.1109/JSAC.2023.3280965)\]
+- \[JSAC'23\] AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing - \[[PDF](https://doi.org/10.1109/JSAC.2023.3287547)\]
+- \[JSAC'23\] Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding - \[[PDF](https://doi.org/10.1109/JSAC.2023.3288231)\]
 
 ### Mobile Crowdsensing
-- \[TMC'23\] AoI-guaranteed Incentive Mechanism for Mobile Crowdsensing with Freshness Concerns
-- \[TMC'23\] Incentive Mechanism for Spatial Crowdsourcing With Unknown Social-Aware Workers: A Three-Stage Stackelberg Game Approach
-- \[TMC'23\] Crowdsourcing Upon Learning: Energy-Aware Dispatch With Guarantee for Video Analytics
-- \[INFOCOM'23\] AoI-aware Incentive Mechanism for Mobile Crowdsensing using Stackelberg Game
-- \[TMC'22\] Combination of Auction Theory and Multi-Armed Bandits: Model, Algorithm, and Application
+- \[TMC'23\] AoI-guaranteed Incentive Mechanism for Mobile Crowdsensing with Freshness Concerns - \[[PDF](https://doi.org/10.1109/TMC.2023.3285779)\]
+- \[TMC'23\] Incentive Mechanism for Spatial Crowdsourcing With Unknown Social-Aware Workers: A Three-Stage Stackelberg Game Approach - \[[PDF](https://doi.org/10.1109/TMC.2022.3157687)\]
+- \[TMC'23\] Crowdsourcing Upon Learning: Energy-Aware Dispatch With Guarantee for Video Analytics - \[[PDF](https://doi.org/10.1109/TMC.2023.3269807)\]
+- \[INFOCOM'23\] AoI-aware Incentive Mechanism for Mobile Crowdsensing using Stackelberg Game - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10229079)\]
+- \[TMC'22\] Combination of Auction Theory and Multi-Armed Bandits: Model, Algorithm, and Application - \[[PDF](https://doi.org/10.1109/TMC.2022.3197459)\]
 
 ### Resource Allocation and Management
-- \[TWC'23\] Elastic Resource Allocation for Coded Distributed Computing Over Heterogeneous Wireless Edge Networks
-- \[TMC'23\] MetaSlicing: A Novel Resource Allocation Framework for Metaverse
-- \[TCOMM'23\] QoE Analysis and Resource Allocation for Wireless Metaverse Services
-- \[JSAC'23\] Attention-Aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services
+- \[TWC'23\] Elastic Resource Allocation for Coded Distributed Computing Over Heterogeneous Wireless Edge Networks - \[[PDF](https://doi.org/10.1109/TWC.2022.3213256)\]
+- \[TMC'23\] MetaSlicing: A Novel Resource Allocation Framework for Metaverse - \[[PDF](https://doi.org/10.1109/TMC.2023.3288085)\]
+- \[TCOMM'23\] QoE Analysis and Resource Allocation for Wireless Metaverse Services - \[[PDF](https://doi.org/10.1109/TCOMM.2023.3282594)\]
+- \[JSAC'23\] Attention-Aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services - \[[PDF](https://doi.org/10.1109/JSAC.2023.3280978)\]

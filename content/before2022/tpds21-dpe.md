@@ -1,5 +1,7 @@
 # [Dependent function embedding for distributed serverless edge computing](https://doi.org/10.1109/TPDS.2021.3137380)
 
+\[[返回主页](../../README.md)\]
+
 ## 作者信息
 *Shuiguang Deng, Hailiang Zhao (Zhejiang University), Zhengzhe Xiang (Zhejiang University City College), Cheng Zhang  (Zhejiang University), Rong Jiang (Yunnan University of Finance and Economics), Ying Li, Jianwei Yin  (Zhejiang University), Schahram Dustdar (Technische Universitat Wien), Albert Y. Zomaya (University of Sydney)*
 
@@ -8,3 +10,5 @@
 
 ## 主要贡献
 该文章首先将DAG调度问题定义为一种具有依赖性的函数嵌入问题，并构建混合优化问题。该问题被证明是NP-Hard，为了求解该问题：1）首先，作者将原问题拆分为两个子问题，即函数放置问题与数据切分映射问题；2）通过求解无穷范数最小化问题，得到最优数据路由与切分方案；3）设计一种基于动态规划的依赖函数嵌入算法（DPE），并通过数学证明算法的理论上界。
+
+\[[返回主页](../../README.md)\]
