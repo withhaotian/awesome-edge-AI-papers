@@ -1,6 +1,6 @@
 # [Wireless powered mobile edge computing: Dynamic resource allocation and throughput maximization](https://doi.org/10.1109/TMC.2020.3034479)
 
-\[[返回主页](../../README.md)\]
+\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
 
 ## 作者信息
 *Xiumei Deng, Jun Li, Long Shi (Nanjing University of Science and Technology), Zhiqiang Wei (University of New South Wales), Xiaobo Zhou (Fuyang Normal University), Jinhong Yuan (University of New South Wales)*

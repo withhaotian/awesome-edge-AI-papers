@@ -1,6 +1,6 @@
 # [ResMap: Exploiting Sparse Residual Feature Map for Accelerating Cross-Edge Video Analytics](https://doi.org/10.1109/INFOCOM53939.2023.10228990)
 
-\[[返回主页](../../README.md)\]
+\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
 
 ## 作者信息
 *Ning Chen, Shuai Zhang, Sheng Zhang, Yuting Yan, Yu Chen, Sanglu Lu (Nanjing University)*

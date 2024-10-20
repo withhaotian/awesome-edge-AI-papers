@@ -1,6 +1,6 @@
 # [Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading](https://doi.org/10.1145/3447993.3448628)
 
-\[[返回主页](../../README.md)\]
+\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
 
 ## 作者信息
 *Wuyang Zhang (Rutgers University), Zhezhi He (Shanghai Jiao Tong University), Luyang Liu (Google Research), Zhenhua Jia (NVIDIA Corporation), Yunxin Liu (Microsoft Research), Marco Gruteser (Google Research), Dipankar Raychaudhuri (Rutgers University), Yanyong Zhang (University of Science and Technology of China)*

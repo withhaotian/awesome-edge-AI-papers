@@ -1,6 +1,6 @@
 # [Distributed artificial intelligence empowered by end-edge-cloud computing: A survey]([content/2023/comst23-dis-ai-eecc.md](https://doi.org/10.1109/COMST.2022.3218527))
 
-\[[返回主页](../../README.md)\]
+\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
 
 ## 作者信息
 *Sijing Duan, Dan Wang (Central South University), Ju Ren (Tsinghua University), Feng Lyu (Central South University), Ye Zhang (Beijing Information Science and Technology University), Huaqing Wu (University of Calgary), Xuemin Shen (University of Waterloo)*

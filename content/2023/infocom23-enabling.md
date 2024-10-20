@@ -1,6 +1,6 @@
 # [Enabling age-aware big data analytics in serverless edge clouds](https://doi.org/10.1109/INFOCOM53939.2023.10228905)
 
-\[[返回主页](../../README.md)\]
+\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
 
 ## 作者信息
 *Zichuan Xu, Yuexin Fu, Qiufen Xia (Dalian University of Technology), Hao Li (China Coal Research Institute)

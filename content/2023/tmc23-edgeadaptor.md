@@ -1,6 +1,6 @@
 # [EdgeAdaptor: Online configuration adaption, model selection and resource provisioning for edge DNN inference serving at scale](https://doi.org/10.1109/TMC.2022.3189186)
 
-\[[返回主页](../../README.md)\]
+\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
 
 ## 作者信息
 *Kongyange Zhao, Zhi Zhou, Xu Chen (Sun Yat-sen University), Ruiting Zhou (Wuhan University), Xiaoxi Zhang, Shuai Yu, Di Wu (Sun Yat-sen University)*

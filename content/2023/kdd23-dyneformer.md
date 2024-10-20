@@ -1,6 +1,6 @@
 # [One for All: Unified Workload Prediction for Dynamic Multi-tenant Edge Cloud Platforms](https://dl.acm.org/doi/abs/10.1145/3580305.3599453)
 
-\[[返回主页](../../README.md)\]
+\[[返回主页](https://github.com/withhaotian/awesome-edge-AI-papers.git)\]
 
 ## 作者信息
 *Shaoyuan Huang, Zheng Wang, Heng Zhang, Xiaofei Wang (Tianjin University), Cheng Zhang (Tianjin University of Finance &
