@@ -17,6 +17,7 @@ A curated list of Edge AI papers. If you find some interesting work/projects, pl
 - \[ToN'24\] [Mean Field Graph Based D2D Collaboration and Offloading Pricing in Mobile Edge Computing](content/2024/ton24-meanfield.md)
 - \[ToN'24\] [Incentive Mechanisms for Online Task Offloading With Privacy-Preserving in UAV-Assisted Mobile Edge Computing](content/2024/ton24-incentive.md)
 - \[INFOCOM'24\] [INVAR: Inversion Aware Resource Provisioning and Workload Scheduling for Edge Computing](content/2024/infocom24-invar.md)
+- \[INFOCOM'24\] [Online Resource Allocation for Edge Intelligence with Colocated Model Retraining and Inference](content/2024/infocom24-orric.md) - \[[Code](https://github.com/caihuaiguang/ORRIC.git)\]
 - \[TSC'24\] [faasHouse: Sustainable Serverless Edge Computing through Energy-aware Resource Scheduling](content/2024/tsc24-faashouse.md)
 - \[WWW'24\] [GEES: Enabling Location Privacy-Preserving Energy Saving in Multi-Access Edge Computing](content/2024/www24-gees.md) - \[[Code & Datasets](https://github.com/ziqiwang20/LEDR)\]
 - \[WWW'24\] [PASS: Predictive Auto-Scaling System for Large-scale Enterprise Web Applications](content/2024/www24-pass.md)
@@ -38,6 +39,7 @@ A curated list of Edge AI papers. If you find some interesting work/projects, pl
 - \[INFOCOM'23\] [FEAT: Towards Fast Environment-Adaptive Task Offloading and Power Allocation in MEC](content/2023/infocom23-feat.md)
 - \[INFOCOM'23\] [Two-level Graph Caching for Expediting Distributed GNN Training](content/2023/infocom23-twolevel.md)
 - \[INFOCOM'23\] [Enabling age-aware big data analytics in serverless edge clouds](content/2023/infocom23-enabling.md)
+  \[INFOCOM'23\] [Tapfinger: Task placement and fine-grained resource allocation for edge machine learning](content/2023/infocom23-tapfinger.md) - \[[Code](https://github.com/nooblyh/TapFinger.git)\]
 - \[MobiCom'23\] [AccuMO: Accuracy-centric multitask offloading in edge-assisted mobile augmented reality](content/2023/mobicom23-accumo.md) - \[[Code](https://github.com/JonnyKong/AccuMO)\]
 - \[MobiCom'23\] [SWAM: Revisiting Swap and OOMK for Improving Application Responsiveness on Mobile Devices](content/2023/mobicom23-swam.md) - \[[Code](https://mobile-swam.github.io/)\]
 
