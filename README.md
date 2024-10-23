@@ -39,7 +39,7 @@ A curated list of Edge AI papers. If you find some interesting work/projects, pl
 - \[INFOCOM'23\] [FEAT: Towards Fast Environment-Adaptive Task Offloading and Power Allocation in MEC](content/2023/infocom23-feat.md)
 - \[INFOCOM'23\] [Two-level Graph Caching for Expediting Distributed GNN Training](content/2023/infocom23-twolevel.md)
 - \[INFOCOM'23\] [Enabling age-aware big data analytics in serverless edge clouds](content/2023/infocom23-enabling.md)
-  \[INFOCOM'23\] [Tapfinger: Task placement and fine-grained resource allocation for edge machine learning](content/2023/infocom23-tapfinger.md) - \[[Code](https://github.com/nooblyh/TapFinger.git)\]
+- \[INFOCOM'23\] [Tapfinger: Task placement and fine-grained resource allocation for edge machine learning](content/2023/infocom23-tapfinger.md) - \[[Code](https://github.com/nooblyh/TapFinger.git)\]
 - \[MobiCom'23\] [AccuMO: Accuracy-centric multitask offloading in edge-assisted mobile augmented reality](content/2023/mobicom23-accumo.md) - \[[Code](https://github.com/JonnyKong/AccuMO)\]
 - \[MobiCom'23\] [SWAM: Revisiting Swap and OOMK for Improving Application Responsiveness on Mobile Devices](content/2023/mobicom23-swam.md) - \[[Code](https://mobile-swam.github.io/)\]
 
