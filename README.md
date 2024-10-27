@@ -3,7 +3,7 @@
 A curated list of Edge AI papers. If you find some interesting work/projects, please contact me through issues or email withhaotian [at] gmail [dot] com.
 
 # Contributing
-Contributions are always welcome! Please refer to [our CONTRIBUTIONS guidelines](CONTRIBUTING.md) for more information and create a pull request to add papers or projects.
+Contributions are always welcome! Please refer to [our contributing guidelines](CONTRIBUTING.md) for more information and create a PR to add papers or projects.
 
 # License
 This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) file for details.
