@@ -164,7 +164,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[JCIN'22\] Resource-Constrained Edge AI with Early Exit Prediction - \[[PDF](https://doi.org/10.23919/JCIN.2022.9815196)\]
 - \[ICC'22\] Loading Cost-Aware Model Caching and Request Routing for Cooperative Edge Inference - \[[PDF](https://doi.org/10.1109/ICC45855.2022.9838823)\]
 
-## System-level Analytics & Evaluation
+## System-Level Analytics & Evaluation
 - \[WWW'24\] [PASS: Predictive Auto-Scaling System for Large-scale Enterprise Web Applications](content/2024/www24-pass.md)
 - \[KDD'23\] [One for All: Unified Workload Prediction for Dynamic Multi-tenant Edge Cloud Platforms](content/2023/kdd23-dyneformer.md) - \[[Code](https://github.com/hsy23/KDD23_DynEformer)\]
 - \[TKDE'23\] A Measurement-Driven Analysis and Prediction of Content Propagation in the Device-to-Device Social Networks - \[[PDF](https://doi.org/10.1109/TKDE.2022.3219399)\]
@@ -229,7 +229,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[MASS'22\] SFC-Enabled Reliable Service Provisioning in Mobile Edge Computing via Digital Twins - \[[PDF](https://doi.org/10.1109/MASS56207.2022.00052)\]
 - \[INFOCOM'22\] Schedule or Wait: Age-Minimization for IoT Big Data Processing in MEC via Online Learning - \[[PDF](https://doi.org/10.1109/INFOCOM48880.2022.9796718)\]
 
-## On-device Intelligence
+## On-Device Intelligence
 - \[MobiSys'23\] [Boosting DNN Cold Inference on Edge Devices](content/2023/mobisys23-nnv12.md) - \[[Code](https://github.com/UbiquitousLearning/NNV12)\]
 - \[MobiCom'23\] [SWAM: Revisiting Swap and OOMK for Improving Application Responsiveness on Mobile Devices](content/2023/mobicom23-swam.md) - \[[Code](https://mobile-swam.github.io/)\]
 - \[TMC'23\] AdaEvo: Edge-Assisted Continuous and Timely DNN Model Evolution for Mobile Devices - \[[PDF](https://doi.org/10.1109/TMC.2023.3316388)\]
@@ -265,7 +265,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[JSAC'23\] Task-Oriented Delay-Aware Multi-Tier Computing in Cell-Free Massive MIMO Systems - \[[PDF](https://doi.org/10.1109/JSAC.2023.3280965)\]
 - \[JSAC'23\] AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing - \[[PDF](https://doi.org/10.1109/JSAC.2023.3287547)\]
 - \[JSAC'23\] Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding - \[[PDF](https://doi.org/10.1109/JSAC.2023.3288231)\]
-- - \[arXiv'23\] Task-Oriented Integrated Sensing, Computation and Communication for Wireless Edge AI - \[[PDF](http://arxiv.org/abs/2306.06603)\]
+- \[arXiv'23\] Task-Oriented Integrated Sensing, Computation and Communication for Wireless Edge AI - \[[PDF](http://arxiv.org/abs/2306.06603)\]
 - \[TWC'22\] Joint Sensing and Communication-Rate Control for Energy Efficient Mobile Crowd Sensing - \[[PDF](https://doi.org/10.1109/TWC.2022.3204269)\]
 - \[MobiCom'22\] Wirelessly powered integrated sensing and communication - \[[PDF](https://dl.acm.org/doi/10.1145/3556562.3558564)\]
 
