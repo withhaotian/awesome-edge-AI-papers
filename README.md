@@ -3,7 +3,7 @@
 A curated list of Edge AI papers. If you find some interesting work/projects, please contact me through issues or email withhaotian [at] gmail [dot] com.
 
 # Contributing
-This list will be keep maintaining. 💪
+> 🔥 This list will be keep maintaining. 
 
 Contributions are always welcome! Please refer to [our contributing guidelines](CONTRIBUTING.md) for more information and create a PR to add papers or projects.
 
@@ -18,7 +18,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[COMST'23\] [Distributed artificial intelligence empowered by end-edge-cloud computing: A survey](content/2023/comst23-dis-ai-eecc.md)
 - \[COMST'22\] [Pervasive AI for IoT applications: A survey on resource-efficient distributed artificial intelligence](content/2022/comst22-pervasive-ai.md)
 - \[COMST'23\] Machine Learning for Large-Scale Optimization in 6G Wireless Networks - \[[PDF](https://doi.org/10.1109/COMST.2023.3300664)\]
-- - \[IOTJ'23\] The Security and Privacy of Mobile Edge Computing: An Artificial Intelligence Perspective - \[[PDF](https://doi.org/10.1109/JIOT.2023.3304318)\]
+- \[IOTJ'23\] The Security and Privacy of Mobile Edge Computing: An Artificial Intelligence Perspective - \[[PDF](https://doi.org/10.1109/JIOT.2023.3304318)\]
 
 ## Edge Training
 - \[TMC'23\] [HierFedML: aggregator placement and UE assignment for hierarchical federated learning in mobile edge computing](content/2023/tmc23-hierfedml.md)
