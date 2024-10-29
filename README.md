@@ -3,6 +3,8 @@
 A curated list of Edge AI papers. If you find some interesting work/projects, please contact me through issues or email withhaotian [at] gmail [dot] com.
 
 # Contributing
+This list will be keep maintaining. 💪
+
 Contributions are always welcome! Please refer to [our contributing guidelines](CONTRIBUTING.md) for more information and create a PR to add papers or projects.
 
 # License
@@ -16,6 +18,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[COMST'23\] [Distributed artificial intelligence empowered by end-edge-cloud computing: A survey](content/2023/comst23-dis-ai-eecc.md)
 - \[COMST'22\] [Pervasive AI for IoT applications: A survey on resource-efficient distributed artificial intelligence](content/2022/comst22-pervasive-ai.md)
 - \[COMST'23\] Machine Learning for Large-Scale Optimization in 6G Wireless Networks - \[[PDF](https://doi.org/10.1109/COMST.2023.3300664)\]
+- - \[IOTJ'23\] The Security and Privacy of Mobile Edge Computing: An Artificial Intelligence Perspective - \[[PDF](https://doi.org/10.1109/JIOT.2023.3304318)\]
 
 ## Edge Training
 - \[TMC'23\] [HierFedML: aggregator placement and UE assignment for hierarchical federated learning in mobile edge computing](content/2023/tmc23-hierfedml.md)
@@ -192,7 +195,6 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[TMC'23\] On the Robustness of Channel Allocation in Joint Radar and Communication Systems: An Auction Approach - \[[PDF](https://doi.org/10.1109/TMC.2023.3276934)\]
 - \[ToN'23\] Privacy Protection Under Incomplete Social and Data Correlation Information - \[[PDF](https://doi.org/10.1109/TNET.2023.3254549)\]
 - \[KDD'23\] Investigating Trojan Attacks on Pre-trained Language Model-powered Database Middleware - \[[PDF](https://dl.acm.org/doi/10.1145/3580305.3599395)\]
-- \[IOTJ'23\] The Security and Privacy of Mobile Edge Computing: An Artificial Intelligence Perspective - \[[PDF](https://doi.org/10.1109/JIOT.2023.3304318)\]
 
 ## Edge Cahcing
 - \[TPDS'23\] A Proactive On-Demand Content Placement Strategy in Edge Intelligent Gateways - \[[PDF](https://doi.org/10.1109/TPDS.2023.3249797)\]
@@ -227,7 +229,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[MASS'22\] SFC-Enabled Reliable Service Provisioning in Mobile Edge Computing via Digital Twins - \[[PDF](https://doi.org/10.1109/MASS56207.2022.00052)\]
 - \[INFOCOM'22\] Schedule or Wait: Age-Minimization for IoT Big Data Processing in MEC via Online Learning - \[[PDF](https://doi.org/10.1109/INFOCOM48880.2022.9796718)\]
 
-## On-device intelligence
+## On-device Intelligence
 - \[MobiSys'23\] [Boosting DNN Cold Inference on Edge Devices](content/2023/mobisys23-nnv12.md) - \[[Code](https://github.com/UbiquitousLearning/NNV12)\]
 - \[MobiCom'23\] [SWAM: Revisiting Swap and OOMK for Improving Application Responsiveness on Mobile Devices](content/2023/mobicom23-swam.md) - \[[Code](https://mobile-swam.github.io/)\]
 - \[TMC'23\] AdaEvo: Edge-Assisted Continuous and Timely DNN Model Evolution for Mobile Devices - \[[PDF](https://doi.org/10.1109/TMC.2023.3316388)\]
