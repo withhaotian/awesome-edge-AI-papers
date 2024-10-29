@@ -1,6 +1,6 @@
 # [Pervasive AI for IoT applications: A survey on resource-efficient distributed artificial intelligence](https://doi.org/10.1109/COMST.2022.3200740)
 
-\[[返回主页](../../README.md#2022)\]
+\[[返回主页](../../README.md)\]
 
 ## 作者信息
 *Emna Baccour (Hamad Bin Khalifa University), Naram Mhaisen, Alaa Awad Abdellatif (Qatar University), Aiman Erbad (Hamad Bin Khalifa University), Amr Mohamed (Qatar University), Mounir Hamdi (Hamad Bin Khalifa University), Mohsen Guizani (Mohamed Bin Zayed University of Artificial Intelligence)*

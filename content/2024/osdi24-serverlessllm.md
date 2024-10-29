@@ -1,6 +1,6 @@
 # [ServerlessLLM: Low-Latency Serverless Inference for Large Language Models](https://www.usenix.org/conference/osdi24/presentation/fu)
 
-\[[返回主页](../../README.md#2024)\]
+\[[返回主页](../../README.md)\]
 
 ## 作者信息
 *Yao Fu, Leyang Xue, Yeqi Huang, Andrei-Octavian Brabete (University of Edinburgh), Dmitrii Ustiugov (NTU Singapore), Yuvraj Patel, Luo Mai (University of Edinburgh)*

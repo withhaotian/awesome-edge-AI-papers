@@ -1,6 +1,6 @@
 # [Tapfinger: Task placement and fine-grained resource allocation for edge machine learning](https://doi.org/10.1109/INFOCOM53939.2023.10229031)
 
-\[[返回主页](../../README.md#2023)\]
+\[[返回主页](../../README.md)\]
 
 ## 作者信息
 *Yihong Li, Tianyu Zeng, Xiaoxi Zhang (Sun Yat-sen University), Jingpu Duan (Peng Cheng Laboratory), Chuan Wu (The University of Hong Kong)*

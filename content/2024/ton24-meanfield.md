@@ -1,6 +1,6 @@
 # [Mean Field Graph Based D2D Collaboration and Offloading Pricing in Mobile Edge Computing](https://doi.org/10.1109/TNET.2023.3288558)
 
-\[[返回主页](../../README.md#2024)\]
+\[[返回主页](../../README.md)\]
 
 ## 作者信息
 *Xiong Wang (Huazhong University of Science and Technology), Jiancheng Ye (Hong Kong Research Center, Huawei), John C. S. Lui (The Chinese University of Hong Kong)*

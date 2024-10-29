@@ -1,6 +1,6 @@
 # [Dependent function embedding for distributed serverless edge computing](https://doi.org/10.1109/TPDS.2021.3137380)
 
-\[[返回主页](../../README.md#before-2022)\]
+\[[返回主页](../../README.md)\]
 
 ## 作者信息
 *Shuiguang Deng, Hailiang Zhao (Zhejiang University), Zhengzhe Xiang (Zhejiang University City College), Cheng Zhang  (Zhejiang University), Rong Jiang (Yunnan University of Finance and Economics), Ying Li, Jianwei Yin  (Zhejiang University), Schahram Dustdar (Technische Universitat Wien), Albert Y. Zomaya (University of Sydney)*

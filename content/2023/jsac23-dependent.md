@@ -1,6 +1,6 @@
 # [Dependent task scheduling and offloading for minimizing deadline violation ratio in mobile edge computing networks](https://doi.org/10.1109/JSAC.2022.3233532)
 
-\[[返回主页](../../README.md#2023)\]
+\[[返回主页](../../README.md)\]
 
 ## 作者信息
 *Shumei Liu, Yao Yu, Xiao Lian, Yuze Feng (Northeastern University), Changyang She, Phee Lep Yeoh (The University of Sydney), Lei Guo (Chongqing University of Posts and Telecommunications), Branka Vucetic, Yonghui Li (The University of Sydney)*

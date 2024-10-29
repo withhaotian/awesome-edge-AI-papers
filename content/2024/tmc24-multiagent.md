@@ -1,6 +1,6 @@
 # [Multi-agent deep reinforcement learning based uav trajectory optimization for differentiated services](https://doi.org/10.1109/TMC.2023.3312276)
 
-\[[返回主页](../../README.md#2024)\]
+\[[返回主页](../../README.md)\]
 
 ## 作者信息
 *Zhaolong Ning (Chongqing University of Posts and Telecommunications), Yuxuan Yang (The University of Sydney), Xiaojie Wang, Qingyang Song, Lei Guo (Chongqing University of Posts and Telecommunications), Abbas Jamalipour (The University of Sydney)*

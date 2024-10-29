@@ -1,6 +1,6 @@
 # [SWAM: Revisiting Swap and OOMK for Improving Application Responsiveness on Mobile Devices](https://doi.org/10.1145/3570361.3592518)
 
-\[[返回主页](../../README.md#2023)\]
+\[[返回主页](../../README.md)\]
 
 ## 作者信息
 *Geunsik Lim (Sungkyunkwan University), Donghyun Kang (Gachon University), MyungJoo Ham (Samsung Electronics), Young Ik Eom (Sungkyunkwan University)*

@@ -1,6 +1,6 @@
 # [Online Resource Allocation for Edge Intelligence with Colocated Model Retraining and Inference](https://doi.org/10.1109/INFOCOM52122.2024.10621206)
 
-\[[返回主页](../../README.md#2024)\]
+\[[返回主页](../../README.md)\]
 
 ## 作者信息
 *Huaiguang Cai, Zhi Zhou, Qianyi Huang (Sun Yat-Sen University)*

@@ -1,6 +1,6 @@
 # [DAG Scheduling in Mobile Edge Computing](https://doi.org/10.1145/3616374)
 
-\[[返回主页](../../README.md#2023)\]
+\[[返回主页](../../README.md)\]
 
 ## 作者信息
 *Guopeng Li, Haisheng Tan, Liuyan Liu, Hao Zhou (University of Science and Technology of China), Shaofeng H.-C. Jiang (Peking University), Zhenhua Han (Microsoft Research Asia), Xiang-Yang Li, Guoliang Chen (University of Science and Technology of China)*

@@ -1,6 +1,6 @@
 # [HierFedML: aggregator placement and UE assignment for hierarchical federated learning in mobile edge computing](https://doi.org/10.1109/TPDS.2022.3218807)
 
-\[[返回主页](../../README.md#2023)\]
+\[[返回主页](../../README.md)\]
 
 ## 作者信息
 *Zichuan Xu, Dapeng Zhao (Dalian University of Technology), Weifa Liang (City University of Hong Kong), Omer F. Rana (Cardiff University), Pan Zhou (Huazhong University of Science and Technology), Mingchu Li (Dalian University of Technology), Wenzheng Xu (Sichuan University), Hao Li (China Coal Research Institute), Qiufen Xia (Dalian University of Technology)*

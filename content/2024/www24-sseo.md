@@ -1,6 +1,6 @@
 # [Accelerating the Decentralized Federated Learning via Manipulating Edges](https://doi.org/10.1145/3589334.3645509)
 
-\[[返回主页](../../README.md#2024)\]
+\[[返回主页](../../README.md)\]
 
 ## 作者信息
 *Mingyang Zhou, Gang Liu, KeZhong Lu, Rui Mao, Hao Liao (Shenzhen University)*

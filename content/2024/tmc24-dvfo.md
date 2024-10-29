@@ -1,6 +1,6 @@
 # [DVFO: Learning-Based DVFS for Energy-Efficient Edge-Cloud Collaborative Inference](https://ieeexplore.ieee.org/abstract/document/10412103)
 
-\[[返回主页](../../README.md#2024)\]
+\[[返回主页](../../README.md)\]
 
 ## 作者信息
 *Ziyang Zhang, Yang Zhao, Changyao Lin, Huan Li, Jie Liu(Harbin Institute of Technology)*
