@@ -1,4 +1,4 @@
-# [Boosting DNN Cold Inference on Edge Devices](https://doi.org/10.1145/3581791.3596842)
+# Boosting DNN Cold Inference on Edge Devices
 
 \[[返回主页](../../README.md)\]
 

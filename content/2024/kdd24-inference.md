@@ -1,4 +1,4 @@
-# [Inference Optimization of Foundation Models on AI Accelerators](https://doi.org/10.1145/3637528.3671465)
+# Inference Optimization of Foundation Models on AI Accelerators
 
 \[[返回主页](../../README.md)\]
 

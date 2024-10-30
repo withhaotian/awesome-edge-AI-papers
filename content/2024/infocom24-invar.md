@@ -1,4 +1,4 @@
-# [INVAR: Inversion Aware Resource Provisioning and Workload Scheduling for Edge Computing](https://doi.org/10.1109/INFOCOM52122.2024.10621417)
+# INVAR: Inversion Aware Resource Provisioning and Workload Scheduling for Edge Computing
 
 \[[返回主页](../../README.md)\]
 

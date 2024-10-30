@@ -1,4 +1,4 @@
-# [AccuMO: Accuracy-centric multitask offloading in edge-assisted mobile augmented reality](https://doi.org/10.1145/3570361.3592531)
+# AccuMO: Accuracy-centric multitask offloading in edge-assisted mobile augmented reality
 
 \[[返回主页](../../README.md)\]
 

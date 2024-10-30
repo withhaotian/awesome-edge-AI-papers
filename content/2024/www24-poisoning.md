@@ -1,4 +1,4 @@
-# [Poisoning Attack on Federated Knowledge Graph Embedding](https://doi.org/10.1145/3589334.3645422)
+# Poisoning Attack on Federated Knowledge Graph Embedding
 
 \[[返回主页](../../README.md)\]
 

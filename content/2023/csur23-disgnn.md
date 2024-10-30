@@ -1,4 +1,4 @@
-# [The evolution of distributed systems for graph neural networks and their origin in graph processing and deep learning: A survey](https://doi.org/10.1145/3597428)
+# The evolution of distributed systems for graph neural networks and their origin in graph processing and deep learning: A survey
 
 \[[返回主页](../../README.md)\]
 

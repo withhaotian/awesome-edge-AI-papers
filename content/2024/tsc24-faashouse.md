@@ -1,4 +1,4 @@
-# [faasHouse: Sustainable Serverless Edge Computing through Energy-aware Resource Scheduling](https://doi.org/10.1109/TSC.2024.3354296)
+# faasHouse: Sustainable Serverless Edge Computing through Energy-aware Resource Scheduling
 
 \[[返回主页](../../README.md)\]
 

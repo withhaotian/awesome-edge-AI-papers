@@ -1,4 +1,4 @@
-# [Online Resource Allocation for Edge Intelligence with Colocated Model Retraining and Inference](https://doi.org/10.1109/INFOCOM52122.2024.10621206)
+# Online Resource Allocation for Edge Intelligence with Colocated Model Retraining and Inference
 
 \[[返回主页](../../README.md)\]
 

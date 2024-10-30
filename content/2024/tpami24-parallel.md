@@ -1,4 +1,4 @@
-# [Parallel and distributed graph neural networks: An in-depth concurrency analysis](https://doi.org/10.1109/TPAMI.2023.3303431)
+# Parallel and distributed graph neural networks: An in-depth concurrency analysis
 
 \[[返回主页](../../README.md)\]
 

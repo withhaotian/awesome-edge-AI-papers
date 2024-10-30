@@ -1,4 +1,4 @@
-# [Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading](https://doi.org/10.1145/3447993.3448628)
+# Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading
 
 \[[返回主页](../../README.md)\]
 

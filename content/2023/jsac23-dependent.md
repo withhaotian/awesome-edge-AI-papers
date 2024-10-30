@@ -1,4 +1,4 @@
-# [Dependent task scheduling and offloading for minimizing deadline violation ratio in mobile edge computing networks](https://doi.org/10.1109/JSAC.2022.3233532)
+# Dependent task scheduling and offloading for minimizing deadline violation ratio in mobile edge computing networks
 
 \[[返回主页](../../README.md)\]
 

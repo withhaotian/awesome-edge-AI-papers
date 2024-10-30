@@ -1,4 +1,4 @@
-# [λGrapher: A Resource-Efficient Serverless System for GNN Serving through Graph Sharing](https://doi.org/10.1145/3589334.3645383)
+# λGrapher: A Resource-Efficient Serverless System for GNN Serving through Graph Sharing
 
 \[[返回主页](../../README.md)\]
 

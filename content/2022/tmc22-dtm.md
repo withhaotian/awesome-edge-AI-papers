@@ -1,4 +1,4 @@
-# [Wireless powered mobile edge computing: Dynamic resource allocation and throughput maximization](https://doi.org/10.1109/TMC.2020.3034479)
+# Wireless powered mobile edge computing: Dynamic resource allocation and throughput maximization
 
 \[[返回主页](../../README.md)\]
 

@@ -1,4 +1,4 @@
-# [Fograph: Enabling real-time deep graph inference with fog computing](https://doi.org/10.1145/3485447.3511982)
+# Fograph: Enabling real-time deep graph inference with fog computing
 
 \[[返回主页](../../README.md)\]
 

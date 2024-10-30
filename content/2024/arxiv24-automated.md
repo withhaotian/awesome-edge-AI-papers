@@ -1,4 +1,4 @@
-# [Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models](https://arxiv.org/pdf/2404.06448)
+# Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models
 
 \[[返回主页](../../README.md)\]
 

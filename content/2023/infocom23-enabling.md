@@ -1,4 +1,4 @@
-# [Enabling age-aware big data analytics in serverless edge clouds](https://doi.org/10.1109/INFOCOM53939.2023.10228905)
+# Enabling age-aware big data analytics in serverless edge clouds
 
 \[[返回主页](../../README.md)\]
 

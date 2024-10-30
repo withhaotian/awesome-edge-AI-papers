@@ -1,4 +1,4 @@
-# [CompCube: A Space-Time-Request Resource Trading Framework for Edge-Cloud Service Market](https://doi.org/10.1109/TSC.2023.3261553)
+# CompCube: A Space-Time-Request Resource Trading Framework for Edge-Cloud Service Market
 
 \[[返回主页](../../README.md)\]
 

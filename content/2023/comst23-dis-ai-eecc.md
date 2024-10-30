@@ -1,4 +1,4 @@
-# [Distributed artificial intelligence empowered by end-edge-cloud computing: A survey]([content/2023/comst23-dis-ai-eecc.md](https://doi.org/10.1109/COMST.2022.3218527))
+# Distributed artificial intelligence empowered by end-edge-cloud computing: A survey
 
 \[[返回主页](../../README.md)\]
 

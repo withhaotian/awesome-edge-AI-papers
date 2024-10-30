@@ -1,4 +1,4 @@
-# [Multi-agent deep reinforcement learning based uav trajectory optimization for differentiated services](https://doi.org/10.1109/TMC.2023.3312276)
+# Multi-agent deep reinforcement learning based uav trajectory optimization for differentiated services
 
 \[[返回主页](../../README.md)\]
 

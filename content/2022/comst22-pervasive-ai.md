@@ -1,4 +1,4 @@
-# [Pervasive AI for IoT applications: A survey on resource-efficient distributed artificial intelligence](https://doi.org/10.1109/COMST.2022.3200740)
+# Pervasive AI for IoT applications: A survey on resource-efficient distributed artificial intelligence
 
 \[[返回主页](../../README.md)\]
 

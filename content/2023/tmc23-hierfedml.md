@@ -1,4 +1,4 @@
-# [HierFedML: aggregator placement and UE assignment for hierarchical federated learning in mobile edge computing](https://doi.org/10.1109/TPDS.2022.3218807)
+# HierFedML: aggregator placement and UE assignment for hierarchical federated learning in mobile edge computing
 
 \[[返回主页](../../README.md)\]
 

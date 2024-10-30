@@ -1,4 +1,4 @@
-# [Who is the Rising Star? Demystifying the Promising Streamers in Crowdsourced Live Streaming](https://doi.org/10.1109/INFOCOM53939.2023.10228881)
+# Who is the Rising Star? Demystifying the Promising Streamers in Crowdsourced Live Streaming
 
 \[[返回主页](../../README.md)\]
 

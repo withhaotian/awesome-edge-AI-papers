@@ -1,4 +1,4 @@
-# [Incentive Mechanisms for Online Task Offloading With Privacy-Preserving in UAV-Assisted Mobile Edge Computing](https://doi.org/10.1109/TNET.2024.3364141)
+# Incentive Mechanisms for Online Task Offloading With Privacy-Preserving in UAV-Assisted Mobile Edge Computing
 
 \[[返回主页](../../README.md)\]
 

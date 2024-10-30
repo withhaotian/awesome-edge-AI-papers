@@ -1,4 +1,4 @@
-# [ResMap: Exploiting Sparse Residual Feature Map for Accelerating Cross-Edge Video Analytics](https://doi.org/10.1109/INFOCOM53939.2023.10228990)
+# ResMap: Exploiting Sparse Residual Feature Map for Accelerating Cross-Edge Video Analytics
 
 \[[返回主页](../../README.md)\]
 

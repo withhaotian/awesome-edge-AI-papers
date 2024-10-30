@@ -1,4 +1,4 @@
-# [Mean Field Graph Based D2D Collaboration and Offloading Pricing in Mobile Edge Computing](https://doi.org/10.1109/TNET.2023.3288558)
+# Mean Field Graph Based D2D Collaboration and Offloading Pricing in Mobile Edge Computing
 
 \[[返回主页](../../README.md)\]
 

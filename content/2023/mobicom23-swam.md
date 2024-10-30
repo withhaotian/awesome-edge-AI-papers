@@ -1,4 +1,4 @@
-# [SWAM: Revisiting Swap and OOMK for Improving Application Responsiveness on Mobile Devices](https://doi.org/10.1145/3570361.3592518)
+# SWAM: Revisiting Swap and OOMK for Improving Application Responsiveness on Mobile Devices
 
 \[[返回主页](../../README.md)\]
 

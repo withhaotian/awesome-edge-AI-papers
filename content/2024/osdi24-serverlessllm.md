@@ -1,4 +1,4 @@
-# [ServerlessLLM: Low-Latency Serverless Inference for Large Language Models](https://www.usenix.org/conference/osdi24/presentation/fu)
+# ServerlessLLM: Low-Latency Serverless Inference for Large Language Models
 
 \[[返回主页](../../README.md)\]
 

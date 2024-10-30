@@ -1,4 +1,4 @@
-# [Tapfinger: Task placement and fine-grained resource allocation for edge machine learning](https://doi.org/10.1109/INFOCOM53939.2023.10229031)
+# Tapfinger: Task placement and fine-grained resource allocation for edge machine learning
 
 \[[返回主页](../../README.md)\]
 

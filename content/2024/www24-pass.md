@@ -1,4 +1,4 @@
-# [PASS: Predictive Auto-Scaling System for Large-scale Enterprise Web Applications](https://doi.org/10.1145/3589334.3645330)
+# PASS: Predictive Auto-Scaling System for Large-scale Enterprise Web Applications
 
 \[[返回主页](../../README.md)\]
 

@@ -1,4 +1,4 @@
-# [Accelerating the Decentralized Federated Learning via Manipulating Edges](https://doi.org/10.1145/3589334.3645509)
+# Accelerating the Decentralized Federated Learning via Manipulating Edges
 
 \[[返回主页](../../README.md)\]
 

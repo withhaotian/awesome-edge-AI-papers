@@ -1,4 +1,4 @@
-# [One for All: Unified Workload Prediction for Dynamic Multi-tenant Edge Cloud Platforms](https://dl.acm.org/doi/abs/10.1145/3580305.3599453)
+# One for All: Unified Workload Prediction for Dynamic Multi-tenant Edge Cloud Platforms
 
 \[[返回主页](../../README.md)\]
 

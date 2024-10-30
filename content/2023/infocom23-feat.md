@@ -1,4 +1,4 @@
-# [FEAT: Towards Fast Environment-Adaptive Task Offloading and Power Allocation in MEC](https://doi.org/10.1109/INFOCOM53939.2023.10228946)
+# FEAT: Towards Fast Environment-Adaptive Task Offloading and Power Allocation in MEC
 
 \[[返回主页](../../README.md)\]
 

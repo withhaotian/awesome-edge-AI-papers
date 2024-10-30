@@ -1,4 +1,4 @@
-# [Dependent function embedding for distributed serverless edge computing](https://doi.org/10.1109/TPDS.2021.3137380)
+# Dependent function embedding for distributed serverless edge computing
 
 \[[返回主页](../../README.md)\]
 

@@ -19,7 +19,7 @@ Very glad that you are interested in contributing to Awesome Edge AI Papers. Ple
 
 # Rules
 1. Make sure add biref inro of the paper in [README.md](README.md) file in the format:
-    > [{Conf/Journal short name}'{Year}] [Paper Title]({Link to the paper}) - {Code/Dataset(if available)}
+    > [{Conf/Journal short name}'{Year}] Paper Title  - {PDF (link to the paper)} {Code/Dataset (if available)}
 2. Add detailed information about the paper in the respective Year in '/content' folder in the format:
     > \# 文章标题
 

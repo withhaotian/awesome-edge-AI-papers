@@ -1,4 +1,4 @@
-# [Tabi: An Efficient Multi-Level Inference System for Large Language Models](https://doi.org/10.1145/3552326.3587438)
+# Tabi: An Efficient Multi-Level Inference System for Large Language Models
 
 \[[返回主页](../../README.md)\]
 

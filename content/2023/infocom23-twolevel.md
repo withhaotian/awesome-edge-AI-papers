@@ -1,4 +1,4 @@
-# [Two-level Graph Caching for Expediting Distributed GNN Training](https://doi.org/10.1109/INFOCOM53939.2023.10228911)
+# Two-level Graph Caching for Expediting Distributed GNN Training
 
 \[[返回主页](../../README.md)\]
 

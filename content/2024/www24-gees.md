@@ -1,4 +1,4 @@
-# [GEES: Enabling Location Privacy-Preserving Energy Saving in Multi-Access Edge Computing](https://doi.org/10.1145/3589334.3645329)
+# GEES: Enabling Location Privacy-Preserving Energy Saving in Multi-Access Edge Computing
 
 \[[返回主页](../../README.md)\]
 

@@ -1,4 +1,4 @@
-# [DAG Scheduling in Mobile Edge Computing](https://doi.org/10.1145/3616374)
+# DAG Scheduling in Mobile Edge Computing
 
 \[[返回主页](../../README.md)\]
 
