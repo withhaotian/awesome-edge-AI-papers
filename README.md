@@ -41,16 +41,22 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 ## Surveys
 - \[KDD'24\] [Inference Optimization of Foundation Models on AI Accelerators](content/2024/kdd24-inference.md) - \[[PDF](https://doi.org/10.1145/3637528.3671465)\]
 - \[TPAMI'24\] [Parallel and distributed graph neural networks: An in-depth concurrency analysis](content/2024/tpami24-parallel.md) - \[[PDF](https://doi.org/10.1109/TPAMI.2023.3303431)\]
+- \[COMST'24\] Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services - \[[PDF](https://ieeexplore.ieee.org/document/10398474/)\]
+- \[ACM CSUR'24\] Mobile Edge Computing and Machine Learning in the Internet of Unmanned Aerial Vehicles: A Survey - \[[PDF](https://dl.acm.org/doi/10.1145/3604933)\]
+- \[ACM CSUR'24\] A Model and Survey of Distributed Data-Intensive Systems - \[[PDF](https://dl.acm.org/doi/10.1145/3604801)\]
 - \[arXiv'24\] Small Language Models: Survey, Measurements, and Insights - \[[PDF](https://arxiv.org/pdf/2409.15790)\] \[[Code](https://github.com/UbiquitousLearning/SLM_Survey)\] \[[Demo](https://ubiquitouslearning.github.io/TinyLLMLeaderBoard/)\]
 - \[arXiv'24\] A Survey of Resource-efficient LLM and Multimodal Foundation Models - \[[PDF](https://arxiv.org/pdf/2401.08092.pdf)\] \[[Code](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 - \[arXiv'24\] Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security - \[[PDF](https://arxiv.org/abs/2401.05459)\] \[[Code](https://github.com/MobileLLM/Personal_LLM_Agents_Survey/)\]
 - \[arXiv'24\] Edge Graph Intelligence: Reciprocally Empowering Edge Networks with Graph Intelligence - \[[PDF](http://arxiv.org/abs/2407.15320)\]
 - \[arXiv'24\] A Survey on Effective Invocation Methods of Massive LLM Services - \[[PDF](http://arxiv.org/abs/2402.03408)\]
+- \[arXiv'24\] On-Device Language Models: A Comprehensive Review - \[[PDF](https://arxiv.org/pdf/2409.00088)\]
+- \[arXiv'24\] A Survey on Model Compression for Large Language Models - \[[PDF](http://arxiv.org/abs/2308.07633)\]
 - \[ACM CSUR'23\] [The evolution of distributed systems for graph neural networks and their origin in graph processing and deep learning: A survey](content/2023/csur23-disgnn.md) - \[[PDF](https://doi.org/10.1145/3597428)\]
 - \[COMST'23\] [Distributed artificial intelligence empowered by end-edge-cloud computing: A survey](content/2023/comst23-dis-ai-eecc.md) - \[[PDF](https://doi.org/10.1109/COMST.2022.3218527)\]
-- \[COMST'22\] [Pervasive AI for IoT applications: A survey on resource-efficient distributed artificial intelligence](content/2022/comst22-pervasive-ai.md) - \[[PDF](https://doi.org/10.1109/COMST.2022.3200740)\]
 - \[COMST'23\] Machine Learning for Large-Scale Optimization in 6G Wireless Networks - \[[PDF](https://doi.org/10.1109/COMST.2023.3300664)\]
+- \[IEEE JPROC'23\] Efficient Acceleration of Deep Learning Inference on Resource-Constrained Edge Devices: A Review - \[[PDF](https://doi.org/10.1109/JPROC.2022.3226481)\]
 - \[IOTJ'23\] The Security and Privacy of Mobile Edge Computing: An Artificial Intelligence Perspective - \[[PDF](https://doi.org/10.1109/JIOT.2023.3304318)\]
+- \[COMST'22\] [Pervasive AI for IoT applications: A survey on resource-efficient distributed artificial intelligence](content/2022/comst22-pervasive-ai.md) - \[[PDF](https://doi.org/10.1109/COMST.2022.3200740)\]
 
 ## Edge Training
 - \[INFOCOM'24\] Agglomerative Federated Learning: Empowering Larger Model Training via End-Edge-Cloud Collaboration - \[[PDF](https://doi.org/10.1109/INFOCOM52122.2024.10621254)\]
@@ -61,6 +67,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[WWW'24\] [Accelerating the Decentralized Federated Learning via Manipulating Edges](content/2024/www24-sseo.md) - \[[PDF](https://doi.org/10.1145/3589334.3645509)\]
 - \[WWW'24\] FedDSE: Distribution-aware Sub-model Extraction for Federated Learning over Resource-constrained Devices - \[[PDF](https://doi.org/10.1145/3589334.3645416)\]
 - \[WWW'24\] How Few Davids Improve One Goliath: Federated Learning in Resource-Skewed Edge Computing Environments - \[[PDF](https://doi.org/10.1145/3589334.3645544)\]
+- \[TMC'24\] Federated Learning with Dynamic Epoch Adjustment and Collaborative Training in Mobile Edge Computing - \[[PDF](https://ieeexplore.ieee.org/document/10158912/)\]
 - \[arXiv'24\] [Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models](content/2024/arxiv24-automated.md) - \[[PDF](https://arxiv.org/pdf/2404.06448)\]
 - \[TMC'23\] [HierFedML: aggregator placement and UE assignment for hierarchical federated learning in mobile edge computing](content/2023/tmc23-hierfedml.md) - \[[PDF](https://doi.org/10.1109/TPDS.2022.3218807)\]
 - \[WWW'23\] PipeEdge: A Trusted Pipelining Collaborative Edge Training based on Blockchain - \[[PDF](https://doi.org/10.1145/3543507.3583413)\]
@@ -130,11 +137,15 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 
 ## Edge Inference
 - \[TMC'24\] [DVFO: Learning-Based DVFS for Energy-Efficient Edge-Cloud Collaborative Inference](content/2024/tmc24-dvfo.md) - \[[PDF](https://ieeexplore.ieee.org/abstract/document/10412103)\]
+- \[TMC'24\] Distributed DNN Inference with Fine-grained Model Partitioning in Mobile Edge Computing Networks - \[[PDF](https://ieeexplore.ieee.org/document/10413648/)\]
 - \[WWW'24\] Unlocking the Non-deterministic Computing Power with Memory-Elastic Multi-Exit Neural Networks - \[[PDF](https://doi.org/10.1145/3589334.3645340)\]
+- \[TMC'24\] MoEI: Mobility-Aware Edge Inference Based on Model Partition and Service Migration - \[[PDF](https://ieeexplore.ieee.org/document/10438028/)\]
+- \[TSC'24\] Incentive-Aware Partitioning and Offloading Scheme for Inference Services in Edge Computing - \[[PDF](https://ieeexplore.ieee.org/document/10415185/)\]
 - \[TMC'23\] [EdgeAdaptor: Online configuration adaption, model selection and resource provisioning for edge DNN inference serving at scale](content/2023/tmc23-edgeadaptor.md) - \[[PDF](https://doi.org/10.1109/TMC.2022.3189186)\]
 - \[TMC'23\] PICO: Pipeline Inference Framework for Versatile CNNs on Diverse Mobile Devices - \[[PDF](https://doi.org/10.1109/TMC.2023.3265111)\]
 - \[INFOCOM'23\] Cross-Camera Inference on the Constrained Edge - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10229045)\]
 - \[INFOCOM'23\] Adversarial Group Linear Bandits and Its Application to Collaborative Edge Inference - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228900)\]
+- \[ToN'23\] Accelerating DNN Inference With Reliability Guarantee in Vehicular Edge Computing - \[[PDF](https://ieeexplore.ieee.org/document/10141674/)\]
 - \[TWC'23\] Task-Oriented Communication for Edge Video Analytics - \[[PDF](https://doi.org/10.1109/TWC.2023.3314888)\]
 - \[TWC'23\] Progressive Feature Transmission for Split Classification at the Wireless Edge - \[[PDF](https://doi.org/10.1109/TWC.2022.3221778)\]
 - \[OSDI'23\] Optimizing Dynamic Neural Networks with Brainstorm - \[[PDF](https://www.usenix.org/conference/osdi23/presentation/cui)\]
@@ -161,6 +172,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[TSC'24\] [faasHouse: Sustainable Serverless Edge Computing through Energy-aware Resource Scheduling](content/2024/tsc24-faashouse.md) - \[[PDF](https://doi.org/10.1109/TSC.2024.3354296)\]
 - \[WWW'24\] DirectFaaS: A Clean-Slate Network Architecture for Efficient Serverless Chain Communications - \[[PDF](https://doi.org/10.1145/3589334.3645333)\]
 - \[INFOCOM'24\] On Efficient Zygote Container Planning and Task Scheduling for Edge Native Application Acceleration - \[[PDF](https://doi.org/10.1109/INFOCOM52122.2024.10621106)\]
+- \[TMC'24\] Taming Serverless Cold Start of Cloud Model Inference with Edge Computing - \[[PDF](https://ieeexplore.ieee.org/document/10376304/)\]
 - \[INFOCOM'23\] [Enabling age-aware big data analytics in serverless edge clouds](content/2023/infocom23-enabling.md) - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228905)\]
 - \[INFOCOM'23\] Online Container Scheduling for Data-intensive Applications in Serverless Edge Computing - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10229034)\]
 - \[INFOCOM'23\] On Efficient Zygote Container Planning toward Fast Function Startup in Serverless Edge Cloud - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228916)\]
@@ -176,6 +188,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 ## Graph Processing/Scheduling
 - \[WWW'24\] [λGrapher: A Resource-Efficient Serverless System for GNN Serving through Graph Sharing](content/2024/www24-lagrapher.md) - \[[PDF](https://doi.org/10.1145/3589334.3645383)\]
 - \[TMC'24\] [Startup-aware Dependent Task Scheduling with Bandwidth Constraints in Edge Computing](content/2024/tmc24-sdts.md) - \[[PDF](https://doi.org/10.1109/TMC.2023.3238868)\]
+- \[ToN'24\] Serving Graph Neural Networks With Distributed Fog Servers for Smart IoT Services - \[[PDF](https://ieeexplore.ieee.org/document/10189178/?arnumber=10189178)\]
 - \[arXiv'24\] Graph Neural Networks Automated Design and Deployment on Device-Edge Co-Inference Systems - \[[PDF](http://arxiv.org/abs/2404.05605)\]
 - \[TOSN'23\] [DAG Scheduling in Mobile Edge Computing](content/2023/tosn23-dag.md) - \[[PDF](https://doi.org/10.1145/3616374)\]
 - \[INFOCOM'23\] [Two-level Graph Caching for Expediting Distributed GNN Training](content/2023/infocom23-twolevel.md) - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228911)\]
@@ -188,6 +201,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[INFOCOM'24\] In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks - \[[PDF](https://doi.org/10.1109/INFOCOM52122.2024.10621268)\]
 - \[INFOCOM'24\] VeriEdge: Verifying and Enforcing Service Level Agreements for Pervasive Edge Computing - \[[PDF](https://doi.org/10.1109/INFOCOM52122.2024.10621128)\]
 - \[TMC'24\] Joint task offloading and resource allocation in heterogeneous edge environments - \[[PDF](https://doi.org/10.1109/TMC.2023.3335198)\]
+- \[TMC'24\] Deep Learning-Assisted Online Task Offloading for Latency Minimization in Heterogeneous Mobile Edge - \[[PDF](https://ieeexplore.ieee.org/document/10158235/)\]
 - \[INFOCOM'23\] [FEAT: Towards Fast Environment-Adaptive Task Offloading and Power Allocation in MEC](content/2023/infocom23-feat.md) - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228946)\]
 - \[INFOCOM'23\] Latency-Optimal Pyramid-based Joint Communication and Computation Scheduling for Distributed Edge Computing - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228964)\]
 - \[INFOCOM'23\] Dynamic Edge-centric Resource Provisioning for Online and Offline Services Co-location - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228949)\]
@@ -292,6 +306,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 
 ## Edge Cahcing
 - \[INFOCOM'24\] Exploiting Storage for Computing: Computation Reuse in Collaborative Edge Computing - \[[PDF](https://doi.org/10.1109/INFOCOM52122.2024.10621100)\]
+- \[TMC'24\] FedCache: A Knowledge Cache-Driven Federated Learning Architecture for Personalized Edge Intelligence - \[[PDF](https://ieeexplore.ieee.org/document/10420495/)\]
 - \[INFOCOM'23\] Economic Analysis of Joint Mobile Edge Caching and Peer Content Sharing - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10229068)\]
 - \[INFOCOM'23\] Dynamic Regret of Randomized Online Service Caching in Edge Computing - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10229044)\]
 - \[TPDS'23\] A Proactive On-Demand Content Placement Strategy in Edge Intelligent Gateways - \[[PDF](https://doi.org/10.1109/TPDS.2023.3249797)\]
@@ -324,7 +339,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[INFOCOM'23\] Dynamic Edge-centric Resource Provisioning for Online and Offline Services Co-location - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228949)\]
 - \[INFOCOM'23\] Digital Twin-Enabled Service Satisfaction Enhancement in Edge Computing - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228893)\]
 - \[TSC'22\] Service Home Identification of Multiple-Source IoT Applications in Edge Computing - \[[PDF](https://doi.org/10.1109/TSC.2022.3176576)\]
-- \[TON'22\] Near Optimal Learning-Driven Mechanisms for Stable NFV Markets in Multitier Cloud Networks - \[[PDF](https://doi.org/10.1109/TNET.2022.3179295)\]
+- \[ToN'22\] Near Optimal Learning-Driven Mechanisms for Stable NFV Markets in Multitier Cloud Networks - \[[PDF](https://doi.org/10.1109/TNET.2022.3179295)\]
 - \[TMC'22\] Digital Twin-Assisted, SFC-Enabled Service Provisioning in Mobile Edge Computing - \[[PDF](https://doi.org/10.1109/TMC.2022.3227248)\]
 - \[TMC'22\] Budget-Aware User Satisfaction Maximization on Service Provisioning in Mobile Edge Computing - \[[PDF](https://doi.org/10.1109/TMC.2022.3205427)\]
 - \[MASS'22\] SFC-Enabled Reliable Service Provisioning in Mobile Edge Computing via Digital Twins - \[[PDF](https://doi.org/10.1109/MASS56207.2022.00052)\]
@@ -332,7 +347,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 
 ## Sensing & Wireless Communications
 - \[TSC'23\] RuleDRL: Reliability-Aware SFC Provisioning with Bounded Approximations in Dynamic Environments - \[[PDF](https://doi.org/10.1109/TSC.2023.3281759)\]
-- \[TON'23\] Reinforcement Learning-Based Particle Swarm Optimization for End-to-End Traffic Scheduling in TSN-5G Networks - \[[PDF](https://doi.org/10.1109/TNET.2023.3276363)\]
+- \[ToN'23\] Reinforcement Learning-Based Particle Swarm Optimization for End-to-End Traffic Scheduling in TSN-5G Networks - \[[PDF](https://doi.org/10.1109/TNET.2023.3276363)\]
 - \[TCOMM'23\] Mobility-Aware Proactive Flow Setup in Software-Defined Mobile Edge Networks - \[[PDF](https://doi.org/10.1109/TCOMM.2023.3238396)\]
 - \[IWQoS'23\] Optimizing Average AoI with Directional Charging for Wireless-Powered Network Edge - \[[PDF](https://doi.org/10.1109/IWQoS57198.2023.10188771)\]
 - \[arXiv'22\] Graph Neural Networks for Wireless Communications: From Theory to Practice - \[[PDF](http://arxiv.org/abs/2203.10800)\]
