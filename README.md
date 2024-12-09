@@ -19,7 +19,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
   - [Edge Training](#edge-training)
   - [Edge Inference](#edge-inference)
   - [Serverless Computing](#serverless-computing)
-  - [Large Language Models (LLM)](#large-language-models-llm)
+  - [Large Language Models (LLMs) / Small Language Models (SLMs)](#large-language-models-llms--small-language-models-slms)
   - [Graph Processing/Scheduling](#graph-processingscheduling)
   - [Optimization for Edge systems](#optimization-for-edge-systems)
   - [Edge AI Systems](#edge-ai-systems)
@@ -44,12 +44,14 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[COMST'24\] Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services - \[[PDF](https://ieeexplore.ieee.org/document/10398474/)\]
 - \[ACM CSUR'24\] Mobile Edge Computing and Machine Learning in the Internet of Unmanned Aerial Vehicles: A Survey - \[[PDF](https://dl.acm.org/doi/10.1145/3604933)\]
 - \[ACM CSUR'24\] A Model and Survey of Distributed Data-Intensive Systems - \[[PDF](https://dl.acm.org/doi/10.1145/3604801)\]
-- \[arXiv'24\] Small Language Models: Survey, Measurements, and Insights - \[[PDF](https://arxiv.org/pdf/2409.15790)\] \[[Code](https://github.com/UbiquitousLearning/SLM_Survey)\] \[[Demo](https://ubiquitouslearning.github.io/TinyLLMLeaderBoard/)\]
-- \[arXiv'24\] A Survey of Resource-efficient LLM and Multimodal Foundation Models - \[[PDF](https://arxiv.org/pdf/2401.08092.pdf)\] \[[Code](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
+- \[arXiv'24\] On-Device Language Models: A Comprehensive Review - \[[PDF](https://arxiv.org/abs/2409.00088)\] \[[Code](https://github.com/NexaAI/Awesome-LLMs-on-device)\]
+- \[arXiv'24\] A Survey of Small Language Models - \[[PDF](https://arxiv.org/abs/2410.20011)\]
+- \[arXiv'24\] Small Language Models: Survey, Measurements, and Insights - \[[PDF](https://arxiv.org/abs/2409.15790)\] \[[Code](https://github.com/UbiquitousLearning/SLM_Survey)\] \[[Demo](https://ubiquitouslearning.github.io/TinyLLMLeaderBoard/)\]
+- \[arXiv'24\] A Survey of Resource-efficient LLM and Multimodal Foundation Models - \[[PDF](https://arxiv.org/abs/2401.08092.pdf)\] \[[Code](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 - \[arXiv'24\] Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security - \[[PDF](https://arxiv.org/abs/2401.05459)\] \[[Code](https://github.com/MobileLLM/Personal_LLM_Agents_Survey/)\]
 - \[arXiv'24\] Edge Graph Intelligence: Reciprocally Empowering Edge Networks with Graph Intelligence - \[[PDF](http://arxiv.org/abs/2407.15320)\]
 - \[arXiv'24\] A Survey on Effective Invocation Methods of Massive LLM Services - \[[PDF](http://arxiv.org/abs/2402.03408)\]
-- \[arXiv'24\] On-Device Language Models: A Comprehensive Review - \[[PDF](https://arxiv.org/pdf/2409.00088)\]
+- \[arXiv'24\] On-Device Language Models: A Comprehensive Review - \[[PDF](https://arxiv.org/abs/2409.00088)\]
 - \[arXiv'24\] A Survey on Model Compression for Large Language Models - \[[PDF](http://arxiv.org/abs/2308.07633)\]
 - \[ACM CSUR'23\] [The evolution of distributed systems for graph neural networks and their origin in graph processing and deep learning: A survey](content/2023/csur23-disgnn.md) - \[[PDF](https://doi.org/10.1145/3597428)\]
 - \[COMST'23\] [Distributed artificial intelligence empowered by end-edge-cloud computing: A survey](content/2023/comst23-dis-ai-eecc.md) - \[[PDF](https://doi.org/10.1109/COMST.2022.3218527)\]
@@ -68,7 +70,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[WWW'24\] FedDSE: Distribution-aware Sub-model Extraction for Federated Learning over Resource-constrained Devices - \[[PDF](https://doi.org/10.1145/3589334.3645416)\]
 - \[WWW'24\] How Few Davids Improve One Goliath: Federated Learning in Resource-Skewed Edge Computing Environments - \[[PDF](https://doi.org/10.1145/3589334.3645544)\]
 - \[TMC'24\] Federated Learning with Dynamic Epoch Adjustment and Collaborative Training in Mobile Edge Computing - \[[PDF](https://ieeexplore.ieee.org/document/10158912/)\]
-- \[arXiv'24\] [Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models](content/2024/arxiv24-automated.md) - \[[PDF](https://arxiv.org/pdf/2404.06448)\]
+- \[arXiv'24\] [Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models](content/2024/arxiv24-automated.md) - \[[PDF](https://arxiv.org/abs/2404.06448)\]
 - \[TMC'23\] [HierFedML: aggregator placement and UE assignment for hierarchical federated learning in mobile edge computing](content/2023/tmc23-hierfedml.md) - \[[PDF](https://doi.org/10.1109/TPDS.2022.3218807)\]
 - \[WWW'23\] PipeEdge: A Trusted Pipelining Collaborative Edge Training based on Blockchain - \[[PDF](https://doi.org/10.1145/3543507.3583413)\]
 - \[WWW'23\] FlexiFed: Personalized Federated Learning for Edge Clients with Heterogeneous Model Architectures - \[[PDF](https://doi.org/10.1145/3543507.3583347)\]
@@ -178,7 +180,17 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[INFOCOM'23\] On Efficient Zygote Container Planning toward Fast Function Startup in Serverless Edge Cloud - \[[PDF](https://doi.org/10.1109/INFOCOM53939.2023.10228916)\]
 - \[TPDS'21\] [Dependent function embedding for distributed serverless edge computing](content/before2022/tpds21-dpe.md) - \[[PDF](https://doi.org/10.1109/TPDS.2021.3137380)\] \[[Code](https://github.com/hliangzhao/embedding)\]
 
-## Large Language Models (LLM)
+## Large Language Models (LLMs) / Small Language Models (SLMs)
+- \[arXiv'24\] OpenELM: An Efficient Language Model Family with Open Training and
+Inference Framework - \[[PDF](https://arxiv.org/abs/2404.14619)\] \[[Code](https://github.com/apple/corenet)\] \[[HuggingFace](https://huggingface.co/apple/OpenELM)\]
+- \[arXiv'24\] FOX-1 TECHNICAL REPORT - \[[PDF](https://arxiv.org/abs/2411.05281)\] \[[HuggingFace](https://huggingface.co/tensoropera/Fox-1-1.6B)\]
+- \[arXiv'24\] Tinyllama: An open-source small language model - \[[PDF](https://arxiv.org/abs/2401.02385)\] \[[Code](https://github.com/jzhang38/TinyLlama)\]
+- \[arXiv'24\] MobileVLM V2: Faster and Stronger Baseline for Vision Language Model - \[[PDF](https://arxiv.org/abs/2402.03766)\] \[[Code](https://github.com/Meituan-AutoML/MobileVLM)\]
+- \[arXiv'24\] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration - \[[PDF](https://arxiv.org/abs/2306.00978)\] \[[Code](https://github.com/mit-han-lab/llm-awq)\]
+- \[arXiv'24\] MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases - \[[PDF](https://arxiv.org/abs/2406.10290)\]
+- \[arXiv'24\] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits - \[[PDF](https://arxiv.org/abs/2402.17764)\]
+- \[arXiv'24\] Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone - \[[PDF](https://arxiv.org/abs/2404.14219)\]
+- \[arXiv'24\] Exploring post-training quantization in llms from comprehensive study to low rank compensation - \[[PDF](https://arxiv.org/abs/2303.08302)\]
 - \[OSDI'24\] [ServerlessLLM: Low-Latency Serverless Inference for Large Language Models](content/2024/osdi24-serverlessllm.md) - \[[PDF](https://www.usenix.org/conference/osdi24/presentation/fu)\] \[[Code](https://github.com/ServerlessLLM/ServerlessLLM)\]
 - \[EdgeFM'24\] Large Language Models on Mobile Devices: Measurements, Analysis, and Insights - \[[PDF](https://doi.org/10.1145/3662006.3662059)\]
 - \[arXiv'24\] vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving - \[[PDF](http://arxiv.org/abs/2407.15309)\]
