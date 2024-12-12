@@ -2,7 +2,7 @@
 
 A curated list of Edge AI papers. If you find some interesting work/projects, please contact me through issues or email withhaotian [at] gmail [dot] com.
 
-The papers or projects for on-device LLMs/SLMs are transferred to [awesome-on-device-LLM-papers](git@github.com:withhaotian/awesome-on-device-LLM-papers.git)
+*The papers or projects for on-device LLMs/SLMs are transferred to [awesome-on-device-LLM-papers](https://github.com/withhaotian/awesome-on-device-LLM-papers.git)*
 
 # Contributing
 > 🔥 This list will be keep maintaining. 
