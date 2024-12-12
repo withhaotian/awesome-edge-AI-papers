@@ -2,6 +2,8 @@
 
 A curated list of Edge AI papers. If you find some interesting work/projects, please contact me through issues or email withhaotian [at] gmail [dot] com.
 
+The papers or projects for on-device LLMs/SLMs are transferred to [awesome-on-device-LLM-papers](git@github.com:withhaotian/awesome-on-device-LLM-papers.git)
+
 # Contributing
 > 🔥 This list will be keep maintaining. 
 
@@ -181,8 +183,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[TPDS'21\] [Dependent function embedding for distributed serverless edge computing](content/before2022/tpds21-dpe.md) - \[[PDF](https://doi.org/10.1109/TPDS.2021.3137380)\] \[[Code](https://github.com/hliangzhao/embedding)\]
 
 ## Large Language Models (LLMs) / Small Language Models (SLMs)
-- \[arXiv'24\] OpenELM: An Efficient Language Model Family with Open Training and
-Inference Framework - \[[PDF](https://arxiv.org/abs/2404.14619)\] \[[Code](https://github.com/apple/corenet)\] \[[HuggingFace](https://huggingface.co/apple/OpenELM)\]
+- \[arXiv'24\] OpenELM: An Efficient Language Model Family with Open Training and Inference Framework - \[[PDF](https://arxiv.org/abs/2404.14619)\] \[[Code](https://github.com/apple/corenet)\] \[[HuggingFace](https://huggingface.co/apple/OpenELM)\]
 - \[arXiv'24\] FOX-1 TECHNICAL REPORT - \[[PDF](https://arxiv.org/abs/2411.05281)\] \[[HuggingFace](https://huggingface.co/tensoropera/Fox-1-1.6B)\]
 - \[arXiv'24\] Tinyllama: An open-source small language model - \[[PDF](https://arxiv.org/abs/2401.02385)\] \[[Code](https://github.com/jzhang38/TinyLlama)\]
 - \[arXiv'24\] MobileVLM V2: Faster and Stronger Baseline for Vision Language Model - \[[PDF](https://arxiv.org/abs/2402.03766)\] \[[Code](https://github.com/Meituan-AutoML/MobileVLM)\]
