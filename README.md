@@ -339,6 +339,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[ICPP'22\] Formulating Interference-aware Data Delivery Strategies in Edge Storage Systems - \[[PDF](https://doi.org/10.1145/3545008.3545078)\]
 
 ## Cloud-Edge Systems
+- \[arXiv'26\] Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution - \[[PDF](https://arxiv.org/abs/2610.17816)\] \[[Code](https://github.com/OpenBMB/EC2-Bench)\]
 - \[INFOCOM'24\] Cur-CoEdge: Curiosity-Driven Collaborative Request Scheduling in Edge-Cloud Systems - \[[PDF](https://doi.org/10.1109/INFOCOM52122.2024.10621190)\]
 - \[TSC'23\] [CompCube: A Space-Time-Request Resource Trading Framework for Edge-Cloud Service Market](content/2023/tsc23-compcube.md) - \[[PDF](https://doi.org/10.1109/TSC.2023.3261553)\]
 - \[ToN'23\] Collaborative Learning-Based Scheduling for Kubernetes-Oriented Edge-Cloud Network - \[[PDF](https://doi.org/10.1109/TNET.2023.3267168)\]
